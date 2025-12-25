@@ -76,3 +76,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/25/2025 5:47:12 PM] Game: Supermart Mart | Device: Amazon KFONWI | ID: d45a0723-15bf-4056-bcab-934a21755589
 [12/25/2025 5:48:55 PM] Game: Supermart Mart | Device: Amazon KFONWI | ID: d45a0723-15bf-4056-bcab-934a21755589
 [12/25/2025 5:50:58 PM] Game: Supermart Mart | Device: Amazon KFONWI | ID: d45a0723-15bf-4056-bcab-934a21755589
+[12/25/2025 5:53:45 PM] Game: Supermart Mart | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
