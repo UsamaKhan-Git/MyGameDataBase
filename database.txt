@@ -11,3 +11,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/25/2025 11:59:38 PM] Game: Wedding Day DressUp | Device: Amazon KFONWI | ID: d45a0723-15bf-4056-bcab-934a21755589
 [12/26/2025 12:02:23 AM] Game: Wedding Day DressUp | Device: Amazon KFONWI | ID: d45a0723-15bf-4056-bcab-934a21755589
 [12/25/2025 11:14:28 AM] Game: ASMR Makeover Beauty | Device: Amazon AFTKRT | ID: 9c289ed7-d1dc-4518-8e3b-0abbd0ff4516
+[12/25/2025 11:14:37 AM] Game: ASMR Makeover Beauty | Device: Amazon AFTMM | ID: dc27dd99-8f28-4af8-9c32-d5ffc70a7a34
