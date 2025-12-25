@@ -29,3 +29,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/26/2025 1:27:30 AM] Game: Real Wrestling Game | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [12/26/2025 1:30:21 AM] Game: Real Wrestling Game | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [12/25/2025 12:46:14 PM] Game: Doll Project | Device: Amazon AFTKRT | ID: 09963d04-0118-40ee-9802-d92bfd09881c
+[12/26/2025 2:16:23 AM] Game: Doll Project | Device: Amazon KFTUWI | ID: c800a044-c2ef-454d-a7ba-34de93a10fbf
