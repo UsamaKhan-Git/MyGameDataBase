@@ -97,3 +97,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/26/2025 3:50:29 AM] Game: ASMR Makeover Beauty | Device: Amazon AFTMM | ID: 3b2a2392-0d16-41ac-b93e-eb90b6ca4afa
 [12/26/2025 3:50:31 AM] Game: ASMR Makeover Beauty | Device: Amazon AFTSSS | ID: 4f658fd8-2c40-4ae4-bd00-1f45ed4bd4c5
 [12/26/2025 1:50:45 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTRWI | ID: 92fca014-3791-4d45-b5aa-5992ce72bc69
+[12/26/2025 1:51:02 PM] Game: ASMR Makeover Beauty | Device: Amazon KFMUWI | ID: 0e349f6b-563e-4f40-8ac6-23e7490485e3
