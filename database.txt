@@ -93,3 +93,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/26/2025 11:58:18 AM] Game: Crazy Makeover Artist | Device: Amazon KFMUWI | ID: d03cb4cf-345c-44dd-85f6-99212fb724b2
 [26/12/2025 10:39:43] Game: Crazy Makeover Artist | Device: Amazon KFMAWI | ID: 9a156b2d-df16-4287-89d7-62efc7fec91c
 [12/26/2025 3:50:21 AM] Game: ASMR Makeover Beauty | Device: Amazon AFTKRT | ID: 1d2dda24-fd14-436c-953b-5164f05e7613
+[12/26/2025 3:50:28 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 37f93a14-1d35-48da-b678-5adafa5fae03
