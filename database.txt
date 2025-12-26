@@ -79,3 +79,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/26/2025 12:35:25 PM] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFONWI | ID: d45a0723-15bf-4056-bcab-934a21755589
 [12/25/2025 11:39:23 PM] Game: steal Run | Device: Amazon AFTKRT | ID: 1d2dda24-fd14-436c-953b-5164f05e7613
 [12/25/2025 11:39:28 PM] Game: steal Run | Device: Amazon KFTUWI | ID: 5781a893-45a7-4cd7-8ee6-20a5c1f66d4b
+[12/25/2025 11:39:35 PM] Game: steal Run | Device: Amazon AFTMM | ID: 3b2a2392-0d16-41ac-b93e-eb90b6ca4afa
