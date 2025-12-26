@@ -87,3 +87,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/26/2025 1:14:01 PM] Game: Crazy Makeover Artist | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [12/26/2025 1:15:14 PM] Game: Crazy Makeover Artist | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [12/26/2025 1:57:34 AM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 37f93a14-1d35-48da-b678-5adafa5fae03
+[12/26/2025 11:57:50 AM] Game: Crazy Makeover Artist | Device: Amazon AFTMM | ID: 7933d77b-a864-4295-8721-38607d110040
