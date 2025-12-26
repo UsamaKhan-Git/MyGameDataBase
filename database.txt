@@ -63,3 +63,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/26/2025 11:31:44 AM] Game: steal Run | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [12/26/2025 11:33:29 AM] Game: steal Run | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [12/25/2025 10:45:30 PM] Game: 99 Night survival | Device: Amazon AFTKRT | ID: 09963d04-0118-40ee-9802-d92bfd09881c
+[12/25/2025 10:45:40 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 92ce2f04-3d01-4562-ab51-30c3aa7300a0
