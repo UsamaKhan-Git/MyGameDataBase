@@ -82,3 +82,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [12/25/2025 11:39:35 PM] Game: steal Run | Device: Amazon AFTMM | ID: 3b2a2392-0d16-41ac-b93e-eb90b6ca4afa
 [12/25/2025 11:39:42 PM] Game: steal Run | Device: Amazon AFTSSS | ID: 4f658fd8-2c40-4ae4-bd00-1f45ed4bd4c5
 [12/25/2025 11:40:11 PM] Game: steal Run | Device: Amazon KFMUWI | ID: f61e4b19-05e5-4e7d-a14a-335e01173eb1
+[12/26/2025 1:05:56 PM] Game: Crazy Makeover Artist | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
