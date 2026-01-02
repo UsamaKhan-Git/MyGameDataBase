@@ -66,3 +66,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/2/2026 12:14:58 PM] Game: Build Plane Game | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/2/2026 4:41:06 PM] Game: Build Plane Game | Device: Amazon AFTSS | ID: 49942f10-aeba-4709-b3e6-856888008de5
 [1/2/2026 4:43:35 PM] Game: Build Plane Game | Device: Amazon AFTKM | ID: b3b4f247-ca58-4a0c-b8df-d12e72f64ba6
+[1/2/2026 2:06:26 PM] Game: 99 Night survival | Device: Amazon AFTSS | ID: 34fd38b1-7744-43f7-9a3f-04bab1c1da54
