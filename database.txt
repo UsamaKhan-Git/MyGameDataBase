@@ -103,3 +103,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/8/2026 6:32:24 PM] Game: Build New Plane Game (FireTv Gamify) | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/8/2026 8:21:09 PM] Game: 99 Night survival challange | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/8/2026 8:21:55 PM] Game: 99 Night survival challange | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[1/8/2026 8:25:48 PM] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: d45a0723-15bf-4056-bcab-934a21755589
