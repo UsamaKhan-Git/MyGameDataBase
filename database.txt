@@ -192,3 +192,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [14/01/2026 8:44:58] Game: Build Plane Game | Device: Amazon KFTRWI | ID: c539d222-a041-4fd3-a43f-202295a9db68
 [1/14/2026 8:29:27 AM] Game: Doll Project | Device: Amazon KFQUWI | ID: 04a16a1e-0df5-4da8-b73a-9de52115d230
 [1/15/2026 12:00:30 PM] Game: ASMR Makeover Beauty | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[1/15/2026 2:41:40 AM] Game: steal Run | Device: Amazon AFTSSS | ID: 285a9967-fc54-4025-8434-cce7a4314e0e
