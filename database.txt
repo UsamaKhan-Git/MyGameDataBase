@@ -327,3 +327,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/18/2026 7:25:17 PM] Game: Rope hero  games | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/18/2026 7:26:05 PM] Game: Rope hero  games | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/18/2026 7:26:17 PM] Game: Rope hero  games | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[18/01/2026 17:23:53] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: e141795d-2cd3-4e49-b7ce-ae774835bd0b
