@@ -286,3 +286,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [17/01/2026 13:35:26] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: e141795d-2cd3-4e49-b7ce-ae774835bd0b
 [1/17/2026 11:19:25 AM] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: 0e0f1d67-b2fb-48d5-8e09-0594695a6098
 [1/18/2026 8:09:35 AM] Game: Bus Simulator | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[1/18/2026 8:17:22 AM] Game: Bus Simulator | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
