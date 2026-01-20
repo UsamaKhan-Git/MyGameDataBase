@@ -356,3 +356,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/20/2026 3:40:02 PM] Game: Flight Simulator | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/20/2026 3:43:50 PM] Game: Flight Simulator | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/20/2026 3:49:19 PM] Game: Flight Simulator | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[1/20/2026 5:16:06 PM] Game: Animal KungFu Karate | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
