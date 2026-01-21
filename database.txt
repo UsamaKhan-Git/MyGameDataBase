@@ -397,3 +397,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/21/2026 7:54:48 PM] Game: Hair Salon | Device: Amazon AFTSSS | ID: 6e0ad04e-029e-4dd3-893d-51b934a05c27
 [1/21/2026 6:24:56 AM] Game: Hair Salon | Device: Amazon KFTRWI | ID: 7cfd24db-cd6e-4e55-af60-95ac02ae5da2
 [1/21/2026 7:55:15 PM] Game: Hair Salon | Device: Amazon KFMUWI | ID: 2d52cee6-5db9-4f65-b25b-ce2addd75787
+[1/21/2026 7:55:19 AM] Game: Doll Project | Device: Amazon KFTUWI | ID: 0ff95b75-b2c7-4f4e-927c-e2c245aa73a6
