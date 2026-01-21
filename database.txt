@@ -401,3 +401,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/21/2026 5:55:27 PM] Game: Doll Project | Device: Amazon AFTKRT | ID: dec3af1d-abff-4268-a600-ca44422f198e
 [1/21/2026 5:55:46 PM] Game: Doll Project | Device: Amazon AFTMM | ID: b8413069-2062-4dab-8c3c-a259bbea4d8f
 [1/21/2026 5:56:02 PM] Game: Doll Project | Device: Amazon KFMUWI | ID: 2bf2f049-ba11-42cd-ba00-4155588a3b3c
+[1/21/2026 5:56:19 PM] Game: Doll Project | Device: Amazon KFTRPWI | ID: 2387b23d-ea75-46ab-a409-9da7c0ab0fba
