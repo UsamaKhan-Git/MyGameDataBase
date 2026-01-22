@@ -440,3 +440,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/22/2026 2:51:21 PM] Game: Slime Maker Simulator | Device: Amazon AFTKRT | ID: 81c3e8e0-7169-42ea-8dd3-a15237ad5750
 [1/22/2026 11:21:38 AM] Game: Slime Maker Simulator | Device: Amazon KFMUWI | ID: 54047a08-2cdd-4799-9728-b1dce852b50a
 [1/22/2026 2:51:45 PM] Game: Slime Maker Simulator | Device: Amazon AFTSSS | ID: 6d67678a-d84d-40f7-8b25-64066716cf07
+[1/22/2026 2:30:44 PM] Game: Gangster Prison Escape | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
