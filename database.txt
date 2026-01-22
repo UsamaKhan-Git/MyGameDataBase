@@ -527,3 +527,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/22/2026 8:46:16 AM] Game: Gangster Prison Escape | Device: Amazon AFTSSS | ID: 4f658fd8-2c40-4ae4-bd00-1f45ed4bd4c5
 [1/22/2026 6:46:30 PM] Game: Gangster Prison Escape | Device: Amazon AFTMM | ID: 68fabf31-4bf9-4168-949a-84f62bad1753
 [1/22/2026 6:46:48 PM] Game: Gangster Prison Escape | Device: Amazon KFTRWI | ID: 610e83c8-e496-4d62-bf52-90b07f2b52c5
+[1/22/2026 6:46:59 PM] Game: Gangster Prison Escape | Device: Amazon KFMUWI | ID: 0e349f6b-563e-4f40-8ac6-23e7490485e3
