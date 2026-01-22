@@ -489,3 +489,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/22/2026 5:20:39 AM] Game: Soccer Game | Device: Amazon AFTKRT | ID: f44b7104-9728-4ae1-95aa-04ab6508b2c9
 [1/22/2026 5:20:45 AM] Game: Soccer Game | Device: Amazon AFTSSS | ID: d9c724c5-62b1-45be-abd2-1bf97031ad99
 [1/22/2026 5:20:47 AM] Game: Soccer Game | Device: Amazon AFTMM | ID: 1c92d5b7-0b6f-4861-be54-160474efc52f
+[1/22/2026 5:21:11 AM] Game: Soccer Game | Device: Amazon KFTRWI | ID: 8d8a260d-c95d-492a-a12c-ced64a96eca5
