@@ -451,3 +451,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/22/2026 12:27:07 PM] Game: Anime School Girl Game | Device: Amazon KFTRWI | ID: ac944d2d-9be2-4d1c-afd8-5ad1a83c281e
 [1/22/2026 12:27:23 PM] Game: Anime School Girl Game | Device: Amazon KFMUWI | ID: c037264e-9b1f-4c12-b55d-c0442c6a0103
 [1/22/2026 12:39:59 PM] Game: BMXCycle Game | Device: Amazon KFTUWI | ID: bdc6aa7e-e9f5-4e4e-8093-c71bb9aee069
+[1/22/2026 12:40:19 PM] Game: BMXCycle Game | Device: Amazon AFTMM | ID: c0d71c9f-bdd5-4593-9686-277c2d281f82
