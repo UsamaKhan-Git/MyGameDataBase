@@ -514,3 +514,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/22/2026 8:03:31 AM] Game: Flight Simulator | Device: Amazon KFTUWI | ID: 9fce8473-7e61-46fc-a1ac-cb84ce99e6e3
 [1/22/2026 8:03:42 AM] Game: Flight Simulator | Device: Amazon AFTMM | ID: dc27dd99-8f28-4af8-9c32-d5ffc70a7a34
 [1/22/2026 6:03:48 PM] Game: Flight Simulator | Device: Amazon AFTKRT | ID: 0d571c51-67d1-4188-a7e1-d05aad81ce48
+[1/22/2026 8:04:40 AM] Game: Flight Simulator | Device: Amazon KFTRPWI | ID: 498a8dfb-306d-4c89-ae5f-72f9ffe61a4f
