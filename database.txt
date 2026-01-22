@@ -465,3 +465,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/22/2026 1:38:52 PM] Game: Rope hero  games | Device: Amazon AFTKRT | ID: 812eabc9-8fc4-4682-bdb3-4d627a880394
 [1/22/2026 1:39:05 PM] Game: Rope hero  games | Device: Amazon AFTMM | ID: e05c2d33-2d78-4222-a7e6-854679bb2d3c
 [1/22/2026 1:40:32 PM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: a87c030d-e371-41b9-bcf6-86fd54d41420
+[1/22/2026 4:44:10 PM] Game: Goods Sorting (Gold) | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
