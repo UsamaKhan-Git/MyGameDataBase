@@ -419,3 +419,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/22/2026 1:33:23 PM] Game: Gangster Prison Escape | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/22/2026 12:37:44 AM] Game: Crazy Makeover Artist | Device: Amazon AFTKRT | ID: 38d33676-72b7-473f-a7e8-a52670b4e7f9
 [1/22/2026 12:37:47 AM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 535eeafe-0f84-421d-82ce-8ccd87ed85d8
+[1/22/2026 12:37:56 AM] Game: Crazy Makeover Artist | Device: Amazon AFTMM | ID: 3101b583-1f45-4608-a44b-a83237e6b61f
