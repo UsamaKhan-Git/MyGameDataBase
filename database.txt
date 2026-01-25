@@ -585,3 +585,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/24/2026 10:15:40 PM] Game: Granny Annty | Device: Amazon KFTUWI | ID: fe33033b-813d-46d3-82f4-af796bc73926
 [1/24/2026 10:16:38 PM] Game: Granny Annty | Device: Amazon KFTUWI | ID: fe33033b-813d-46d3-82f4-af796bc73926
 [1/24/2026 10:17:50 PM] Game: Granny Annty | Device: Amazon KFTUWI | ID: fe33033b-813d-46d3-82f4-af796bc73926
+[25.01.2026 11:11:22] Game: Doll Project | Device: Amazon KFTUWI | ID: 6ddfd956-1802-4184-be7c-7385d3b44084
