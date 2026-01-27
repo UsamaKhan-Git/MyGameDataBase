@@ -628,3 +628,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [27/01/2026 18:57:03] Game: Rope hero  games | Device: Amazon KFTUWI | ID: 4493aac2-4c64-4edf-b6ae-7302609fdb09
 [2026-01-27 2:29:29 PM] Game: ASMR Makeover Beauty | Device: Amazon KFQUWI | ID: f3bb2cf6-29c9-4a51-917c-38d593b9a77d
 [27/01/2026 17:35:53] Game: Doll Project | Device: Amazon KFTUWI | ID: c928f143-bad8-410d-ba2e-69e75d2cddc6
+[27/01/2026 17:43:18] Game: Doll Project | Device: Amazon KFTUWI | ID: c928f143-bad8-410d-ba2e-69e75d2cddc6
