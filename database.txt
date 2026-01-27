@@ -622,3 +622,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/26/2026 12:30:41 PM] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 657fa60f-3865-489b-b436-a94d658a4c83
 [1/26/2026 12:30:57 PM] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 657fa60f-3865-489b-b436-a94d658a4c83
 [26/01/2026 14:33:57] Game: Crazy Makeover Artist | Device: Amazon KFONWI | ID: f35dfcf7-f9ed-417d-8f07-cde75ba3a39d
+[1/27/2026 5:25:08 PM] Game: Supermart Mart | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
