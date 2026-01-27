@@ -625,3 +625,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/27/2026 5:25:08 PM] Game: Supermart Mart | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/27/2026 5:27:24 PM] Game: Supermart Mart | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [1/27/2026 7:35:02 AM] Game: Moto Bike Race | Device: Amazon KFONWI | ID: 8386c2d2-b98a-4a0d-8360-ce84cc0b160b
+[27/01/2026 18:57:03] Game: Rope hero  games | Device: Amazon KFTUWI | ID: 4493aac2-4c64-4edf-b6ae-7302609fdb09
