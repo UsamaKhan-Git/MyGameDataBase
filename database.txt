@@ -667,3 +667,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/30/2026 2:33:35 AM] Game: Eye Art Game | Device: Amazon KFMUWI | ID: 16ba35a1-f607-4152-9200-62058b12f951
 [1/30/2026 2:35:09 AM] Game: Eye Art Game | Device: Amazon AFTT | ID: 72f0ab37-16ee-4153-9c03-d957e1fb7a94
 [1/30/2026 8:49:27 AM] Game: Moto Bike Race | Device: Amazon KFONWI | ID: ba30228c-32c2-405a-91f9-b036b56e42b4
+[1/30/2026 10:41:28 PM] Game: Lion Game | Device: Amazon AFTOLCBC82 | ID: 3715b76e-ef55-4092-a163-45047fe4be32
