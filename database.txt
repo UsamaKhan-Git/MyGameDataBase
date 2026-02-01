@@ -670,3 +670,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [1/30/2026 10:41:28 PM] Game: Lion Game | Device: Amazon AFTOLCBC82 | ID: 3715b76e-ef55-4092-a163-45047fe4be32
 [2026-01-31 8:04:46 AM] Game: ASMR Makeover Beauty | Device: Amazon KFQUWI | ID: f3bb2cf6-29c9-4a51-917c-38d593b9a77d
 [31/01/2026 03:31:44 p. m.] Game: Doll Project | Device: Amazon KFRAWI | ID: ea958ec9-e5ef-485d-8a2e-3bb388881216
+[2/1/2026 3:23:06 PM] Game: Granny Annty | Device: Amazon KFTRWI | ID: 8ee42813-e71a-4ed8-9f5f-da78caceab6b
