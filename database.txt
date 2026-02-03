@@ -673,3 +673,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/1/2026 3:23:06 PM] Game: Granny Annty | Device: Amazon KFTRWI | ID: 8ee42813-e71a-4ed8-9f5f-da78caceab6b
 [2/1/2026 5:49:47 PM] Game: Granny Annty | Device: Amazon KFTRWI | ID: 8ee42813-e71a-4ed8-9f5f-da78caceab6b
 [2/2/2026 1:54:10 PM] Game: RR_CubeMerge_Amazon New Gold | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[2/2/2026 7:01:43 PM] Game: 99 Night survival | Device: Amazon AFTSS | ID: 2a6507df-4a7e-474b-bbd9-2eb70574c433
