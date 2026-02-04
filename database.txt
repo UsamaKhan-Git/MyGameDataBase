@@ -729,3 +729,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/4/2026 4:50:29 PM] Game: Sky Fighters | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2/4/2026 4:51:31 PM] Game: Sky Fighters | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2/4/2026 4:52:49 PM] Game: Sky Fighters | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[2/4/2026 4:41:41 PM] Game: Lion Game | Device: Amazon KFTUWI | ID: b85fa509-3f83-44e2-ad1a-0b01b1289644
