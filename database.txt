@@ -750,3 +750,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/5/2026 9:26:19 PM] Game: Sky Fighters | Device: Amazon KFTUWI | ID: cfd228cb-94ff-4f0d-9ad3-88d4080d8cdf
 [2/5/2026 9:26:40 PM] Game: Sky Fighters | Device: Amazon AFTSSS | ID: 6b747f85-410b-4d96-88f1-6b2d6fbaea47
 [2/5/2026 9:27:32 PM] Game: Sky Fighters | Device: Amazon KFMUWI | ID: e8db4193-7bc1-4820-ab40-e53e8187e397
+[2/5/2026 9:28:45 PM] Game: Goods Sorting | Device: Amazon AFTKRT | ID: 03f140f2-acff-4253-afd3-8cc42911f92f
