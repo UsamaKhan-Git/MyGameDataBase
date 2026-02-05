@@ -739,3 +739,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/5/2026 7:34:04 PM] Game: Steal And Run Game | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2/5/2026 7:22:34 AM] Game: Makeup Zombie ASMR | Device: Amazon AFTKRT | ID: 2111eab7-7ed3-4569-94d9-a70978cfebec
 [2/5/2026 5:22:45 PM] Game: Makeup Zombie ASMR | Device: Amazon AFTMM | ID: c0d71c9f-bdd5-4593-9686-277c2d281f82
+[2/5/2026 5:22:49 PM] Game: Makeup Zombie ASMR | Device: Amazon KFTUWI | ID: bdc6aa7e-e9f5-4e4e-8093-c71bb9aee069
