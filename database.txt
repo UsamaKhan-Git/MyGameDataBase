@@ -794,3 +794,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/6/2026 4:28:54 PM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 92fca014-3791-4d45-b5aa-5992ce72bc69
 [2/6/2026 7:59:15 PM] Game: Steal And Run Game | Device: Amazon KFMUWI | ID: 76a77f96-4611-4c63-94b4-4f85f5e6f632
 [2/6/2026 2:37:36 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: ca0b7c9e-2e76-4899-b36e-2dd8d307f778
+[2/6/2026 11:49:40 AM] Game: Loin Hunting | Device: Amazon AFTCIBFBD1 | ID: 54d6601b-8f7d-4557-ba52-b0040a8f560e
