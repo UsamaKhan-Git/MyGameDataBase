@@ -802,3 +802,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [06/02/2026 21:54:51] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 30e00e0f-ba04-466a-aa63-fefd30dcf9f1
 [2/6/2026 4:08:51 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 2bb74c04-b80c-4abf-9d6e-39535b0dc7e9
 [2/6/2026 6:42:32 PM] Game: Granny Annty | Device: Amazon KFTUWI | ID: b0ed85ca-d732-495d-b017-8dece797c13e
+[2/6/2026 7:47:40 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: 4cbafad7-c8b3-45a9-a238-0b781094434d
