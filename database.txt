@@ -810,3 +810,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/6/2026 8:35:44 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: ebfc2557-c5ed-4c21-95eb-d3951dc2fa7f
 [2/6/2026 8:57:43 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: ebfc2557-c5ed-4c21-95eb-d3951dc2fa7f
 [2/6/2026 8:58:35 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: ebfc2557-c5ed-4c21-95eb-d3951dc2fa7f
+[06/02/2026 09:00:04 p. m.] Game: Bus Simulator | Device: Amazon KFTUWI | ID: 8eb73bbf-c303-4dda-9939-d3af81b62088
