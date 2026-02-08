@@ -945,3 +945,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [08/02/2026 17:19:15] Game: Makeup Zombie ASMR | Device: Amazon KFRAWI | ID: 2a664b05-ac30-414a-a2e0-6de199d735cd
 [08/02/2026 17:30:13] Game: Makeup Zombie ASMR | Device: Amazon KFRAWI | ID: 2a664b05-ac30-414a-a2e0-6de199d735cd
 [2/8/2026 2:43:15 PM] Game: Granny Annty | Device: Amazon KFTUWI | ID: 296b7587-ea43-4637-83b0-6cd7a2851f8a
+[2/8/2026 1:08:58 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: b4f8fe5a-ed44-47cc-b9bc-8654e619379e
