@@ -970,3 +970,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [09.02.2026 12:15:54] Game: Doll Project | Device: Amazon KFTRWI | ID: 483db277-ed60-4c6f-8c1b-986b56419f13
 [9/02/2026 8:29:52 AM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: cc96b1ee-305f-4ad2-8dcb-57e013bb4bb1
 [09/02/2026 09:46:09] Game: Car Drift Game | Device: Amazon KFQUWI | ID: cbe9a802-8e25-4bd3-a8f0-9c6e520ca63d
+[2/9/2026 9:03:19 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: ffb2f309-47fe-48a3-9da5-174ab59425e6
