@@ -1042,3 +1042,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/10/2026 5:48:25 PM] Game: Makeup Zombie ASMR | Device: Amazon KFTRWI | ID: 42e04d7e-28ee-46df-b593-5b0e2eec3242
 [2/10/2026 4:46:44 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: a8e1e6a0-fc45-495a-9f21-340bf77eeecc
 [2/10/2026 5:53:47 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 49387f66-dcd8-416c-807e-ee191785a9dd
+[2/10/2026 6:53:17 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 47a34baf-4544-4f18-b312-3d53c0a1428d
