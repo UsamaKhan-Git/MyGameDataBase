@@ -1210,3 +1210,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [14/02/2026 10:47:23] Game: Car Drift Game | Device: Amazon KFQUWI | ID: cbe9a802-8e25-4bd3-a8f0-9c6e520ca63d
 [2/14/2026 9:06:45 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 80a5025f-e7a9-4065-835a-07a1bf0b28f5
 [2/14/2026 9:16:59 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 80a5025f-e7a9-4065-835a-07a1bf0b28f5
+[2/14/2026 10:46:48 AM] Game: Steal And Run Game | Device: Amazon AFTDCT31 | ID: 3de668c3-013a-4d09-a9ff-1e4a01e3fcd7
