@@ -1185,3 +1185,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/13/2026 8:24:02 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 47a34baf-4544-4f18-b312-3d53c0a1428d
 [2026-02-13 18:25:13] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: b13c5a9d-0e6b-4a5a-b7a5-ab282d76f3d8
 [2/13/2026 8:26:22 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 47a34baf-4544-4f18-b312-3d53c0a1428d
+[2/13/2026 8:52:57 PM] Game: Steal And Run Game | Device: Amazon AFTDEC012E | ID: 20526346-4df5-4065-a8da-135a1cd11306
