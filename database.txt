@@ -1447,3 +1447,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/18/2026 4:29:00 PM] Game: IceCream Cone | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2/18/2026 4:40:20 PM] Game: ASMR Makeover Beauty(DiamondGold) | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2/18/2026 4:50:14 PM] Game: ASMR Makeover Beauty(DiamondGold) | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[2026/02/18 21:07:51] Game: Makeup Zombie ASMR | Device: Amazon KFRAWI | ID: b2df91b6-e659-4d3f-bf74-2e4e4c6156e1
