@@ -1560,3 +1560,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/19/2026 3:21:30 AM] Game: IceCream Cone | Device: Amazon AFTKM | ID: fe30aad4-ea8d-43b1-8c44-580b0c9023eb
 [19.02.2026 09:39:12] Game: Steal And Run Game | Device: Amazon KFONWI | ID: b25f6528-ef3d-463f-a645-e9475e032b6b
 [19/02/2026 08:48:44] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 6b0d38c7-6c49-4181-9428-c23673c18898
+[2/19/2026 1:56:24 AM] Game: Doll Project | Device: Amazon KFTUWI | ID: a584b7d9-9ce7-4b8e-bcba-5acc643b9155
