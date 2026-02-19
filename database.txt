@@ -1525,3 +1525,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/18/2026 10:32:56 PM] Game: Build Plane Game | Device: Amazon KFMAWI | ID: b4346e51-9aa0-4d82-967e-196e571273ad
 [2/18/2026 11:00:27 PM] Game: Build Plane Game | Device: Amazon KFMAWI | ID: b4346e51-9aa0-4d82-967e-196e571273ad
 [2/18/2026 11:07:28 PM] Game: Steal And Run Game | Device: Amazon AFTALMO | ID: 9047b0f9-c6a0-41ed-aa35-68d548ad8419
+[2/19/2026 10:30:24 AM] Game: Baby Unicorn - My Rainbow Pet | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
