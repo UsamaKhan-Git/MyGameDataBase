@@ -1562,3 +1562,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [19/02/2026 08:48:44] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 6b0d38c7-6c49-4181-9428-c23673c18898
 [2/19/2026 1:56:24 AM] Game: Doll Project | Device: Amazon KFTUWI | ID: a584b7d9-9ce7-4b8e-bcba-5acc643b9155
 [2/19/2026 1:56:25 AM] Game: Doll Project | Device: Amazon AFTKRT | ID: e5677bc8-3765-413e-bc68-48c86280e4f7
+[2/19/2026 1:56:33 AM] Game: Doll Project | Device: Amazon AFTMM | ID: c2c32fc2-9493-4f51-b611-5591311d54a9
