@@ -1704,3 +1704,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/20/2026 8:52:08 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 3b9d5d9e-0b8e-4307-8c14-f2015b4a8bb0
 [20.02.2026 14:53:13] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 96e7302c-5d34-430a-9534-05f1672263ea
 [20.02.2026 14:56:55] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 96e7302c-5d34-430a-9534-05f1672263ea
+[20/02/2026 14:13:51] Game: RopeHero | Device: Amazon KFRAWI | ID: b7147651-f42c-4868-890a-9ebb46d6225a
