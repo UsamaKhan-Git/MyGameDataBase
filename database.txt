@@ -2366,3 +2366,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/25/2026 3:59:37 PM] Game: PlanetSmash(Gold) | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2/25/2026 4:01:12 PM] Game: PlanetSmash(Gold) | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2026-02-25 4:36:15 PM] Game: Granny Annty | Device: Amazon AFTKRT | ID: 9d6fb1c3-a7f5-4161-9820-db62108ff237
+[2/25/2026 6:39:33 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 608458be-0ced-4839-98b3-9fdfd820aad5
