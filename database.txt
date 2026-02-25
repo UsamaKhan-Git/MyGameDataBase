@@ -2348,3 +2348,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/25/2026 11:56:51 AM] Game: Lion Game | Device: Amazon KFTRPWI | ID: 17985bfd-e96d-4bb4-ab41-e06125c8e754
 [2/25/2026 11:57:00 AM] Game: Lion Game | Device: Amazon KFTRWI | ID: 648e1f6d-3121-4d5f-9892-5504541081b3
 [2/25/2026 11:58:16 AM] Game: Lion Game | Device: Amazon KFMUWI | ID: 9b50e7c7-4722-4f24-aa7c-1bf010a57095
+[2/25/2026 4:59:49 AM] Game: Steal And Run Game | Device: Amazon AFTKM | ID: 65d153d5-c061-41da-971c-58ac7e2068e0
