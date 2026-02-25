@@ -2360,3 +2360,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/25/2026 3:56:42 PM] Game: Rope hero  games | Device: Amazon KFTRWI | ID: aeb81326-e53e-4790-9aac-d7319f44db0d
 [2/25/2026 3:56:29 PM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: af3187ca-8f5e-45c8-818e-40c53e1cc682
 [2/25/2026 3:56:58 PM] Game: Rope hero  games | Device: Amazon AFTSSS | ID: bd7c0ce6-a713-4137-94b6-bf36eeac5bcb
+[2/25/2026 3:52:10 PM] Game: PlanetSmash(Gold) | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
