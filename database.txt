@@ -2557,3 +2557,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/26/2026 4:12:05 PM] Game: RopeHero | Device: Amazon KFSNWI | ID: 30967dad-f371-4f08-b43c-f61c2365f3a2
 [2/26/2026 4:12:12 PM] Game: Steal And Run Game | Device: Amazon KFSNWI | ID: 5c2f3045-fc3d-4e76-a6a7-ded3db0a05d1
 [2/26/2026 4:13:24 PM] Game: Steal And Run Game | Device: Amazon KFSNWI | ID: 5c2f3045-fc3d-4e76-a6a7-ded3db0a05d1
+[2/26/2026 4:29:12 PM] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 8e3b58ea-e84f-4b27-8f61-a3fd61728ff7
