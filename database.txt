@@ -2532,3 +2532,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/26/2026 8:55:09 AM] Game: Hair Salon | Device: Amazon KFTUWI | ID: 949596ad-4112-47d0-9f44-79744189db83
 [2/26/2026 9:20:54 AM] Game: Build Plane Game | Device: Amazon KFTUWI | ID: 949596ad-4112-47d0-9f44-79744189db83
 [26.02.2026 16:26:20] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 4e19d3ed-2725-4d15-a85d-5f70e6238556
+[26/02/2026 15:26:40] Game: Eye Art Game | Device: Amazon KFRAWI | ID: d1f2e7d8-8692-4bfb-bb96-caf45703693f
