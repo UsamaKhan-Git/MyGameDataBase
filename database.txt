@@ -2516,3 +2516,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/26/2026 6:19:04 AM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: a7b76797-9dd1-4439-a851-7a0b5b22ea3d
 [26.02.2026 13:24:04] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 0e56740f-3879-4dc1-86f0-8d00c865de4f
 [2/26/2026 8:27:28 PM] Game: Eye Art Game | Device: Amazon AFTSS | ID: 4e28a650-bba0-4d92-b278-a8dab1a094a7
+[26.02.2026 13:30:08] Game: Wedding Day DressUp | Device: Amazon KFONWI | ID: 0e56740f-3879-4dc1-86f0-8d00c865de4f
