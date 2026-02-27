@@ -2749,3 +2749,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/27/2026 5:38:05 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 9963d249-f5ac-4952-9555-bc5f223326a2
 [2/27/2026 7:41:48 PM] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFONWI | ID: d1ad5d39-f129-4c90-9748-d09d35b7f78d
 [2/27/2026 6:42:06 PM] Game: 99 Night survival | Device: Amazon KFRAPWI | ID: 75276ba7-e9b1-4f2e-88b6-6c35a78ddff9
+[2/27/2026 4:43:00 PM] Game: Steal And Run Game | Device: Amazon AFTKA002 | ID: 32fb0064-8a64-466d-a50a-8e13f68e060b
