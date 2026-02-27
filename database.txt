@@ -2690,3 +2690,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [27/02/2026 17:34:55] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFTRWI | ID: 57a68207-0b94-4547-8b62-0b527e89cae2
 [27.02.2026 18:40:16] Game: RopeHero | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
 [27.02.2026 18:56:40] Game: RopeHero | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
+[27.02.2026 19:11:13] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
