@@ -2911,3 +2911,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [28.02.2026 14:29:46] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 1d0e5a45-d6e6-411d-8a4c-6031d8de1347
 [28/02/2026 13:33:54] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 06cd126c-a078-4251-b027-d691597e9946
 [28.02.2026 14:34:36] Game: 99 Night survival | Device: Amazon KFONWI | ID: 1d0e5a45-d6e6-411d-8a4c-6031d8de1347
+[28/02/2026 13:35:33] Game: Eye Art Game | Device: Amazon KFONWI | ID: 41dd69d5-209b-4443-88cc-3167d8512885
