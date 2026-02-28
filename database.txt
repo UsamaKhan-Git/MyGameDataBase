@@ -2940,3 +2940,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [28/02/2026 11:46:00] Game: Eye Art Game | Device: Amazon KFTUWI | ID: dff8ca0f-1d8e-45a3-87e7-b91d7e68c922
 [2026/03/01 0:47:35] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFRAWI | ID: 75820811-1b6f-405c-91e1-ba8655671317
 [28.02.2026 17:03:16] Game: Eye Art Game | Device: Amazon KFONWI | ID: a395405f-bd02-4b72-ae8c-db6aabb10fef
+[28.02.2026 17:13:10] Game: 99 Night survival | Device: Amazon KFONWI | ID: 1d0e5a45-d6e6-411d-8a4c-6031d8de1347
