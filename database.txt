@@ -2973,3 +2973,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [28/02/2026 14:31:51] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 79a0b82e-febb-45f0-b124-82a91d14a87b
 [28.02.2026 20:40:47] Game: Eye Art Game | Device: Amazon KFTUWI | ID: bbc6a5b0-7927-4839-a9ca-dc94084dd211
 [28.02.2026 20:43:18] Game: Eye Art Game | Device: Amazon KFTUWI | ID: bbc6a5b0-7927-4839-a9ca-dc94084dd211
+[2/28/2026 11:44:00 AM] Game: Rope hero  games | Device: Amazon KFTRPWI | ID: 8e7dfc6d-4917-48bd-b770-f2c8fa606a69
