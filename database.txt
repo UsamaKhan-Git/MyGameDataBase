@@ -2853,3 +2853,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [28.02.2026 08:00:33] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: b1af56ec-1796-4888-b3de-d003deb09a1f
 [2/28/2026 9:34:59 AM] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFAUWI | ID: a8f7c6eb-3c20-44ec-87ae-3b21593f299d
 [2/27/2026 11:47:25 PM] Game: Rope hero  games | Device: Amazon KFTRPWI | ID: 8e7dfc6d-4917-48bd-b770-f2c8fa606a69
+[2/27/2026 9:55:38 PM] Game: Steal And Run Game | Device: Amazon KFSNWI | ID: 293d1e90-dff8-4ffa-9f91-7cda48301f16
