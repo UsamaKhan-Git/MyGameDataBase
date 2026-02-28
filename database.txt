@@ -2755,3 +2755,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [27/02/2026 18:56:20] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFTRWI | ID: 273427d3-5b33-40f8-b83c-f82c4dd28f89
 [2/27/2026 6:59:34 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: b1a6a13a-6f7b-4214-a53f-9de149047a25
 [2/27/2026 6:00:03 PM] Game: Hair Salon | Device: Amazon KFKAWI | ID: f8e1bddf-000c-48b5-9406-556e963c484e
+[27/02/2026 6:02:01 PM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: f10a2f7b-b9ce-4460-957e-ba1c13f527ca
