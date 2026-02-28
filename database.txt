@@ -2884,3 +2884,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/28/2026 5:49:44 AM] Game: RopeHero | Device: Amazon KFQUWI | ID: 8cd07426-0dbe-42cd-944e-34291491ad63
 [2/28/2026 5:54:32 AM] Game: RopeHero | Device: Amazon KFQUWI | ID: 8cd07426-0dbe-42cd-944e-34291491ad63
 [2/28/2026 5:58:47 AM] Game: RopeHero | Device: Amazon KFQUWI | ID: 8cd07426-0dbe-42cd-944e-34291491ad63
+[28.02.2026 12:19:04] Game: Lion Game | Device: Amazon KFRAWI | ID: e6b41a94-954b-4a44-940b-17e799bda5ab
