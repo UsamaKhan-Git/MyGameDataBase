@@ -2962,3 +2962,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/28/2026 11:17:27 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 24180e33-b071-43fb-9a45-3d614f64b7bd
 [2/28/2026 10:27:34 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: e8081b16-f052-4ff0-b1a4-100d212bc7ed
 [28.02.2026 19:32:16] Game: Hair Salon | Device: Amazon KFONWI | ID: 0e56740f-3879-4dc1-86f0-8d00c865de4f
+[2/28/2026 11:35:58 AM] Game: Doll Project | Device: Amazon KFQUWI | ID: 04a16a1e-0df5-4da8-b73a-9de52115d230
