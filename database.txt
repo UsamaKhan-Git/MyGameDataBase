@@ -2886,3 +2886,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/28/2026 5:58:47 AM] Game: RopeHero | Device: Amazon KFQUWI | ID: 8cd07426-0dbe-42cd-944e-34291491ad63
 [28.02.2026 12:19:04] Game: Lion Game | Device: Amazon KFRAWI | ID: e6b41a94-954b-4a44-940b-17e799bda5ab
 [28/02/2026 11:25:06] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 4d9b4f26-ad32-4ff4-b09e-df4c58701c46
+[2026/02/28 20:50:07] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFTUWI | ID: d7d5481f-aff3-4c2a-bd96-908651a15719
