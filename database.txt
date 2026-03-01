@@ -3127,3 +3127,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [01/03/2026 09:44:11] Game: Eye Art Game | Device: Amazon KFTRWI | ID: 40d9ac15-cc93-4d82-abab-fefcc2aa496d
 [01.03.2026 10:46:28] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [01.03.2026 10:47:39] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
+[01/03/2026 10:11:11] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 55dec4f1-d8e6-453a-acb1-d95374558062
