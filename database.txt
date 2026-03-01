@@ -3105,3 +3105,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2/28/2026 10:55:17 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: 1d705681-a373-491d-8920-c3cfa8304ed4
 [2/28/2026 10:56:44 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: 1d705681-a373-491d-8920-c3cfa8304ed4
 [3/1/2026 1:31:43 AM] Game: RopeHero | Device: Amazon KFTUWI | ID: 3d43807f-f05d-49e3-ab7f-d80141800411
+[01.03.2026 08:33:30] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 69566929-c4d6-48f3-b783-1a22f804bafe
