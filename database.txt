@@ -3123,3 +3123,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [01.03.2026 10:20:19] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [2026/03/01 18:29:02] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFTUWI | ID: 1c6902c1-902d-43aa-8544-f17eae039db5
 [2026/03/01 18:31:59] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFTUWI | ID: 1c6902c1-902d-43aa-8544-f17eae039db5
+[2026/03/01 18:41:39] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 1c6902c1-902d-43aa-8544-f17eae039db5
