@@ -3614,3 +3614,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [03.03.2026 19:39:52] Game: Hair Salon | Device: Amazon KFRAWI | ID: 447b5856-e634-425a-b1e6-d2f19a10b580
 [3/3/2026 2:02:27 PM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 80789ec2-d3ca-4e36-8008-00773b5f0002
 [3/3/2026 2:36:44 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 11dba74b-8462-4178-98ae-9de494457f43
+[3/3/2026 2:38:10 PM] Game: 99 Night survival | Device: Amazon KFQUWI | ID: 11dba74b-8462-4178-98ae-9de494457f43
