@@ -3682,3 +3682,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [3/3/2026 9:31:04 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: df229a28-4f38-43b5-adad-026a8f937250
 [3/3/2026 9:32:06 PM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: df229a28-4f38-43b5-adad-026a8f937250
 [3/3/2026 10:43:38 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 9508e344-7484-4cba-a45b-9ceb2a0aa500
+[3/3/2026 7:53:00 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 85aef7e0-7bfb-46ca-a9ec-48348df4f5ef
