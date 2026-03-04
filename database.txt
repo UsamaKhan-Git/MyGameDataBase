@@ -3730,3 +3730,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [3/4/2026 11:25:09 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: ac0074f4-c16b-4536-85ae-dabf6a7af40b
 [3/4/2026 11:19:57 AM] Game: 99 Night survival | Device: Amazon KFONWI | ID: 6285cff3-bc9f-4a93-a16a-9e481497f126
 [04.03.2026 19:29:54] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 4e19d3ed-2725-4d15-a85d-5f70e6238556
+[04/03/2026 18:32:54] Game: Granny Annty | Device: Amazon KFTRWI | ID: beb1d180-fda9-4f46-881e-eb5973e4b935
