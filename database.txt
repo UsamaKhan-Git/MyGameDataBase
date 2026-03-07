@@ -4079,3 +4079,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [07/03/2026 20:03:56] Game: Doll Project | Device: Amazon KFRAWI | ID: 973247b9-b505-47e1-9906-4c40726a2aeb
 [07/03/2026 20:05:18] Game: Doll Project | Device: Amazon KFRAWI | ID: 973247b9-b505-47e1-9906-4c40726a2aeb
 [07/03/2026 14:08:22] Game: ASMR Makeover Beauty | Device: Amazon KFTRPWI | ID: 4c1d0aee-5e49-468c-9c37-b780ca20efb3
+[3/7/2026 2:17:43 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: c5732dc4-6d9b-46c1-9836-965a2c247753
