@@ -6245,3 +6245,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [22/03/2026 11:11:24] Game: Real Wrestling Game | Device: Amazon KFQUWI | ID: 3deab95b-c96d-4e7e-8bfb-7a3cb54f8a60
 [3/22/2026 12:14:39 PM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 6d99a1c0-62bf-4e94-af3f-abb9f019246e
 [3/22/2026 10:16:27 AM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: ae3bc884-9dac-4b59-96ac-d65866966fdb
+[3/22/2026 12:18:38 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 0139d85a-8942-4bf9-b6b4-54c144f930eb
