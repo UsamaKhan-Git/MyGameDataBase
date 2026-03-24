@@ -6441,3 +6441,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [3/24/2026 1:57:06 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: f00aa3d1-4e4b-40d9-811e-9b24ab65d69a
 [2026-03-24 4:57:59 PM] Game: Slime Maker Simulator | Device: Amazon AFTKA002 | ID: 7d0a44ce-1094-4855-a9c9-3d86b4feb4ae
 [3/24/2026 2:43:07 PM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: dee76c7f-456e-43b5-880e-31053460e067
+[3/24/2026 5:56:46 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 4cb8aa15-a8be-4a45-b089-d524d8bd5429
