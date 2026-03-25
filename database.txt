@@ -6521,3 +6521,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [3/25/2026 12:12:20 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [3/25/2026 12:12:30 PM] Game: Granny Annty | Device: Amazon KFTUWI | ID: c86ead00-8ef6-4ef6-8af6-10783bdac994
 [25/03/2026 13:20:01] Game: Steal And Run Game | Device: Amazon KFMUWI | ID: d4dd6275-af31-4e27-b623-ab4845633beb
+[25/03/2026 13:28:42] Game: 99 Night survival | Device: Amazon KFMUWI | ID: d4dd6275-af31-4e27-b623-ab4845633beb
