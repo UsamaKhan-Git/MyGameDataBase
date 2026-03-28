@@ -6835,3 +6835,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [3/28/2026 7:24:07 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTRPWI | ID: 4d6d0f7a-8b99-42c4-ae12-12297f3fea54
 [3/28/2026 7:27:05 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTRPWI | ID: 4d6d0f7a-8b99-42c4-ae12-12297f3fea54
 [3/28/2026 1:57:17 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: d382d6d5-5a5c-4562-ada5-462d78bb3e78
+[28.03.2026 09:11:48] Game: Rope hero  games | Device: Amazon KFTUWI | ID: e65bec95-7a02-4eca-8652-420029a8f8af
