@@ -7259,3 +7259,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [3/29/2026 2:56:55 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 4eec3426-40bc-433d-a947-a268064de919
 [3/29/2026 2:58:22 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 4eec3426-40bc-433d-a947-a268064de919
 [3/29/2026 2:59:28 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 4eec3426-40bc-433d-a947-a268064de919
+[3/29/2026 6:05:24 PM] Game: Granny Annty | Device: Amazon KFRAWI | ID: b08e69f0-3c99-4164-9a0f-e234a032582a
