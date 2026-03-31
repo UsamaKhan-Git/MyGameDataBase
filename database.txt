@@ -7562,3 +7562,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [3/31/2026 12:35:11 PM] Game: Loin Hunting | Device: Amazon KFRAPWI | ID: 9963d249-f5ac-4952-9555-bc5f223326a2
 [31.03.2026 19:46:02] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 10e4af51-4926-4cd5-9b78-cedb0abf405c
 [3/31/2026 1:47:17 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 754187a6-60df-4562-993f-7e9f0c6bc235
+[31.03.2026 19:48:25] Game: 99 Night survival | Device: Amazon KFRAPWI | ID: 10e4af51-4926-4cd5-9b78-cedb0abf405c
