@@ -7581,3 +7581,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [2026-03-31 15:32:52] Game: 99 Night survival | Device: Amazon KFRAWI | ID: 4b98ee69-e68c-4528-b0df-8f7f7b9826b7
 [2026-03-31 15:33:42] Game: 99 Night survival | Device: Amazon KFRAWI | ID: 4b98ee69-e68c-4528-b0df-8f7f7b9826b7
 [2026-03-31 15:39:18] Game: 99 Night survival | Device: Amazon KFRAWI | ID: 4b98ee69-e68c-4528-b0df-8f7f7b9826b7
+[31.03.2026 21:42:20] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: f52e43c9-017d-4e52-b441-e14104ce13d1
