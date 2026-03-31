@@ -7565,3 +7565,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [31.03.2026 19:48:25] Game: 99 Night survival | Device: Amazon KFRAPWI | ID: 10e4af51-4926-4cd5-9b78-cedb0abf405c
 [3/31/2026 11:14:27 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 8505deb5-5fd2-4d1a-a4fb-3322c294ac0b
 [3/31/2026 2:24:07 PM] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: 91606dfe-6457-445b-9504-dcca65f3d345
+[3/31/2026 2:40:20 PM] Game: Doll Project | Device: Amazon KFTRWI | ID: 91606dfe-6457-445b-9504-dcca65f3d345
