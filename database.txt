@@ -7738,3 +7738,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [4/2/2026 10:29:58 AM] Game: 99 Night survival | Device: Amazon KFONWI | ID: a4a23e2d-e961-496c-bf2a-a823eaae2e38
 [02/04/2026 08:53:24] Game: Robot Transformation | Device: Amazon KFTUWI | ID: 22958ca1-c417-4344-952d-5ffb5c61347b
 [02/04/2026 12:32:34] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 5a8d425c-675a-4585-8b77-1004c5de306e
+[02.04.2026 13:14:03] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
