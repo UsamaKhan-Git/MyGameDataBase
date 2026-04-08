@@ -8645,3 +8645,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [08/04/2026 19:45:35] Game: Doll Project | Device: Amazon KFTRWI | ID: 40d9ac15-cc93-4d82-abab-fefcc2aa496d
 [08/04/2026 19:45:56] Game: Doll Project | Device: Amazon KFTRWI | ID: 40d9ac15-cc93-4d82-abab-fefcc2aa496d
 [08.04.2026 20:53:30] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: a5fd6d1e-74c4-4bd4-a84a-7a04a67904b5
+[4/8/2026 3:12:38 PM] Game: 99 Night survival | Device: Amazon KFQUWI | ID: 5e3150d6-081a-4f6b-b2ed-32420503e3a6
