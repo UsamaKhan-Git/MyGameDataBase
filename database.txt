@@ -8711,3 +8711,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [4/8/2026 9:25:33 PM] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: b49eae4b-573e-4a93-8ce1-2f7c2df3f650
 [4/8/2026 9:25:51 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: c8355f4e-a43b-4a0d-9462-c62c41758c0b
 [2026-04-09 10:38:59 AM] Game: Robot Transformation | Device: Amazon KFONWI | ID: 95c61955-4022-4601-a7e4-c7a9bd2a2f2d
+[4/8/2026 9:47:30 PM] Game: 99 Night survival | Device: Amazon KFQUWI | ID: 3a83df43-1144-44a5-9aaf-df1077669c28
