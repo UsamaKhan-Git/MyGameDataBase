@@ -9034,3 +9034,4 @@ d45a0723-15bf-4056-bcab-934a21755589
 [4/11/2026 11:14:09 AM] Game: Rope hero  games | Device: Amazon KFTRWI | ID: 69d2b8bf-e059-4112-87e8-8dc8fa41b2d3
 [11/04/2026 09:54:48] Game: Build Plane Game | Device: Amazon KFQUWI | ID: 99474f1f-12a0-42f1-905f-19e87fc265a4
 [11/04/2026 10:06:07] Game: Build Plane Game | Device: Amazon KFQUWI | ID: 99474f1f-12a0-42f1-905f-19e87fc265a4
+[11/04/2026 10:06:37] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 25c7774f-15eb-45b0-b890-3094a17fd281
