@@ -148,3 +148,4 @@
 [4/12/2026 3:56:48 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 1061b55c-8794-4b3d-997a-424d44d8e7e3
 [4/12/2026 3:57:07 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 1061b55c-8794-4b3d-997a-424d44d8e7e3
 [4/12/2026 4:01:28 PM] Game: 99 Night survival | Device: Amazon KFONWI | ID: 786087f7-ea0f-440b-bb95-b640e9a246fe
+[2026-04-12 16:05:37] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: f8e1afd4-fe04-419d-b06b-9c078c3e50b2
