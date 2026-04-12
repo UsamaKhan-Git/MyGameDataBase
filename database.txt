@@ -102,3 +102,4 @@
 [12.04.2026 17:58:55] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 80a78fa5-ba72-45dd-95af-3cfc721efa04
 [12.04.2026 18:08:04] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: fe796a7e-e28b-49b4-8aba-eece57d5e1e4
 [4/12/2026 7:13:05 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 4559de57-0f85-4a54-b8e0-54956917b70e
+[4/12/2026 12:21:21 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: b215a365-5619-4a92-9e9e-cf4416f8309d
