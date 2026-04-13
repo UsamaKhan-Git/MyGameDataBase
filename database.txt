@@ -227,3 +227,4 @@
 [2026/04/13 14:07:44] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 13de0d2a-0649-4b6d-b1f9-a0b360fee484
 [13/04/2026 07:21:53] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFTRWI | ID: 57a68207-0b94-4547-8b62-0b527e89cae2
 [13.04.2026 09:28:30] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: e227a02f-857a-4863-a123-398d3ca8712d
+[4/13/2026 6:51:46 AM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: d49f807b-e03c-4862-aa7a-55751c99809f
