@@ -263,3 +263,4 @@
 [4/13/2026 12:35:02 PM] Game: Rope hero  games | Device: Amazon KFTRWI | ID: 6f4400e6-1237-49d0-a8ec-c85fb267e469
 [4/13/2026 12:35:56 PM] Game: Rope hero  games | Device: Amazon KFTRWI | ID: 6f4400e6-1237-49d0-a8ec-c85fb267e469
 [4/13/2026 9:48:57 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 9fc9934a-b4f3-4ad9-8650-5f1cbc5229ac
+[4/13/2026 1:08:45 PM] Game: 99 Night survival | Device: Amazon KFRAPWI | ID: 2de43caf-af26-45e3-9024-563f8abbdf30
