@@ -353,3 +353,4 @@
 [4/14/2026 8:46:27 AM] Game: Build Plane Game | Device: Amazon KFRAPWI | ID: 70ecc1bc-720d-4141-ac63-bf8509245a40
 [4/14/2026 8:59:23 AM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: e480b846-9f46-4294-82d9-fb1a31a17426
 [4/14/2026 7:50:30 AM] Game: Car Drift Game | Device: Amazon AFTKM | ID: d9f25d7d-959f-4e47-9c84-97e816ce90bb
+[4/14/2026 7:52:23 AM] Game: Goods Sorting | Device: Amazon AFTKM | ID: d9f25d7d-959f-4e47-9c84-97e816ce90bb
