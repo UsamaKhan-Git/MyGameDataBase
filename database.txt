@@ -568,3 +568,4 @@
 [4/15/2026 8:31:49 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 506cb694-0aac-48d9-b96d-bd2508b73988
 [4/15/2026 8:41:50 PM] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 506cb694-0aac-48d9-b96d-bd2508b73988
 [4/15/2026 8:47:11 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 5d5d8eee-0b10-4355-b418-02571faa7277
+[4/15/2026 8:52:48 PM] Game: 99 Night survival | Device: Amazon KFONWI | ID: 4003cdaa-1ee6-45a7-ae8d-bba7884db4c8
