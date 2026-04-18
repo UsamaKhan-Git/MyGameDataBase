@@ -852,3 +852,4 @@
 [4/18/2026 9:02:51 AM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: af50fba8-527e-43c5-835d-a99899a22763
 [4/18/2026 11:58:34 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: b3a74604-fc87-46fb-8ccd-aa1a1444a025
 [4/18/2026 12:09:41 PM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 5e2ab2cb-c3da-46eb-9534-47e2f94f5db4
+[4/18/2026 12:29:03 PM] Game: Ant Simulator | Device: Amazon AFTMM | ID: f9c4eecf-9ce3-42b5-9271-02941912da0f
