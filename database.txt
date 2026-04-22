@@ -1259,3 +1259,4 @@
 [2026-04-21 8:46:25 PM] Game: Build Plane Game | Device: Amazon KFRAWI | ID: 54cc87da-d728-4e36-b1b6-40320fbb4117
 [2026-04-21 9:03:41 PM] Game: Build Plane Game | Device: Amazon KFRAWI | ID: 54cc87da-d728-4e36-b1b6-40320fbb4117
 [4/22/2026 12:08:53 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: b86c2735-ce0c-4b55-ba3d-666dd8755ecb
+[4/21/2026 6:27:49 PM] Game: 99 Night survival | Device: Amazon KFQUWI | ID: 702b339f-2773-49c8-9caa-9ffae5ff34f0
