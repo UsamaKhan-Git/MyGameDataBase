@@ -1761,3 +1761,4 @@
 [4/26/2026 2:57:10 PM] Game: Build Plane Game | Device: Amazon KFRAWI | ID: d970d287-91ab-4b86-ba8f-9f48928a080b
 [4/26/2026 1:01:00 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: c4e09e8e-f8da-4b5a-920a-22516210347b
 [26/04/2026 20:10:24] Game: Build Plane Game | Device: Amazon KFMAWI | ID: 33e51e4c-18a3-4168-83dd-a0f4f6f3fc3e
+[4/26/2026 12:20:13 PM] Game: Ant Simulator | Device: Amazon KFTRWI | ID: 7985e4f4-b4c2-45c9-8141-f68f0581c5a0
