@@ -1796,3 +1796,4 @@
 [4/26/2026 6:25:04 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 733a4dec-3070-4a0b-9612-7fe66bf75d4a
 [26/04/2026 18:30:17] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 7c845ec9-6210-453a-9187-3311744459f5
 [26/04/2026 18:33:29] Game: Build Plane Game | Device: Amazon KFQUWI | ID: 7c845ec9-6210-453a-9187-3311744459f5
+[26/04/2026 18:39:26] Game: 99 Night survival | Device: Amazon KFQUWI | ID: 7c845ec9-6210-453a-9187-3311744459f5
