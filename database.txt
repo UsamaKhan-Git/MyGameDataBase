@@ -1862,3 +1862,4 @@
 [4/27/2026 3:19:27 PM] Game: Baby Unicorn - My Rainbow Pet | Device: Amazon KFTUWI | ID: 1d705681-a373-491d-8920-c3cfa8304ed4
 [4/27/2026 3:33:54 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 8323c22a-b044-4113-a669-a93305ee5d2b
 [4/27/2026 6:35:26 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: c0086e26-4abe-4cd1-b1d5-2d1afd2d29bf
+[4/27/2026 5:57:02 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
