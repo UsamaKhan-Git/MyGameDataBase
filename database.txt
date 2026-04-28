@@ -1918,3 +1918,4 @@
 [28/04/2026 16:21:04] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 7d08e49a-3c48-437c-b7c6-4961a4e92eb9
 [4/28/2026 12:44:42 PM] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 0e44395e-9530-4d64-93ed-65ca03f8546c
 [4/28/2026 12:56:51 PM] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 0e44395e-9530-4d64-93ed-65ca03f8546c
+[4/28/2026 1:19:23 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: f3696c1d-cc27-4288-9886-358f71778ecc
