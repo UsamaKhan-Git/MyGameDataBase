@@ -2591,3 +2591,4 @@
 [05.05.2026 17:17:24] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 923054f9-0e78-461a-aa87-836ce2d5e161
 [05/05/2026 16:53:15] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: d8bd947b-5a82-439c-b246-38c732fab102
 [05/05/2026 16:53:32] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: d8bd947b-5a82-439c-b246-38c732fab102
+[5/5/2026 11:54:06 AM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: d49f807b-e03c-4862-aa7a-55751c99809f
