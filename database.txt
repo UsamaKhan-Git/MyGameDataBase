@@ -2800,3 +2800,4 @@
 [08.05.2026 19:36:28] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: cbd72417-bc5a-4fcd-a681-2c3f4796af2a
 [08.05.2026 19:45:35] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: cbd72417-bc5a-4fcd-a681-2c3f4796af2a
 [5/8/2026 2:40:21 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 39c07ca2-2c6c-4e99-976a-861e87564260
+[5/8/2026 11:41:08 AM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
