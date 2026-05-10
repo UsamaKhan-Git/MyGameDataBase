@@ -3087,3 +3087,4 @@
 [5/10/2026 2:11:54 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 31c5b54b-4ff2-4e6e-90bc-51819619edde
 [5/10/2026 1:30:54 PM] Game: Ant Simulator | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [5/10/2026 1:32:28 PM] Game: Ant Simulator | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
+[5/10/2026 1:32:37 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 2665ecef-a186-4114-b9cf-ae65be8bde60
