@@ -3361,3 +3361,4 @@
 [14/05/2026 06:39:27] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: bb2de4b6-8b2f-47d3-a026-a492663ca9c8
 [14.05.2026 08:41:25] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 54e44d1a-fa40-43d7-83e8-943ee216f300
 [14.05.2026 08:41:51] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 54e44d1a-fa40-43d7-83e8-943ee216f300
+[14.05.2026 09:34:50] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: cd65d807-8199-47d2-91f0-c922f87ede25
