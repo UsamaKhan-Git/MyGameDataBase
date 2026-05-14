@@ -3403,3 +3403,4 @@
 [14/05/2026 13:37:40] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 512cd41b-b5b4-4c6e-a13e-0f89434964ef
 [5/14/2026 11:49:29 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 854195bf-9fc7-4e6f-ad32-2d6490768d1d
 [5/14/2026 1:51:02 PM] Game: Granny Annty | Device: Amazon KFQUWI | ID: b9006940-13a8-402a-a3da-7bdbd50337c6
+[5/14/2026 10:51:08 a. m.] Game: BMXCycle Game | Device: Amazon KFTUWI | ID: 00f7a012-89be-47ae-a45e-f6dd8bc998e2
