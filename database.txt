@@ -3961,3 +3961,4 @@
 [19.05.2026 18:28:57] Game: Moto Bike Race | Device: Amazon KFTUWI | ID: 42c70db9-6c4d-44ac-a097-06a058840bfe
 [19/05/2026 10:46:51] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 05700537-7ff0-44f1-9fd6-98be18b9ccb5
 [19/05/2026 10:46:59] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 05700537-7ff0-44f1-9fd6-98be18b9ccb5
+[19/05/2026 17:54:08] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 25c7774f-15eb-45b0-b890-3094a17fd281
