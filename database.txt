@@ -3957,3 +3957,4 @@
 [19.05.2026 18:23:10] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: e4eb796a-c281-4411-847b-b4715c789e20
 [19.05.2026 18:23:12] Game: Moto Bike Race | Device: Amazon KFTUWI | ID: 42c70db9-6c4d-44ac-a097-06a058840bfe
 [19.05.2026 18:27:53] Game: Moto Bike Race | Device: Amazon KFTUWI | ID: 42c70db9-6c4d-44ac-a097-06a058840bfe
+[5/19/2026 9:28:13 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 4e8b7a16-d2f6-4d8d-9b9d-2bb2b0a750d6
