@@ -4162,3 +4162,4 @@
 [5/22/2026 7:48:44 AM] Game: Wedding Day DressUp | Device: Amazon KFTUWI | ID: 9ce9496f-b130-4cc1-9653-fb9f9182b8ea
 [5/22/2026 7:49:42 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 9ce9496f-b130-4cc1-9653-fb9f9182b8ea
 [5/22/2026 7:59:09 AM] Game: Slime Maker Simulator | Device: Amazon KFTUWI | ID: 9ce9496f-b130-4cc1-9653-fb9f9182b8ea
+[2026/05/22 18:21:44] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 918cc250-9160-4a0d-8220-27ee0cb37d09
