@@ -4510,3 +4510,4 @@
 [24.05.2026 22:13:56] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 4e19d3ed-2725-4d15-a85d-5f70e6238556
 [24.05.2026 22:25:07] Game: 99 Night survival | Device: Amazon KFRAWI | ID: 00000000-0000-0000-0000-000000000000
 [24.05.2026 22:27:45] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 4e19d3ed-2725-4d15-a85d-5f70e6238556
+[5/24/2026 4:39:29 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 11fdae4d-ce90-4732-a735-affdda5605fb
