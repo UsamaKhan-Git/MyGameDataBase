@@ -4603,3 +4603,4 @@
 [25/05/2026 17:35:06] Game: Granny Annty | Device: Amazon AFTKRT | ID: 295efd4d-b3ef-4d0b-aa1e-6902d19e3d71
 [5/25/2026 10:43:13 AM] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 8e3b58ea-e84f-4b27-8f61-a3fd61728ff7
 [5/25/2026 8:43:59 PM] Game: Rope hero  games | Device: Amazon KFQUWI | ID: 01d4633a-e007-40b7-8619-cd30ccccc783
+[5/25/2026 10:46:23 AM] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 8e3b58ea-e84f-4b27-8f61-a3fd61728ff7
