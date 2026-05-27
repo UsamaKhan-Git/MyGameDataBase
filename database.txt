@@ -4773,3 +4773,4 @@
 [27/05/2026 12:42:51] Game: Granny Annty | Device: Amazon KFTRWI | ID: a6dd00d1-5f74-4fb6-b6ee-94a3c138fdcd
 [5/27/2026 12:06:25 PM] Game: Real Wrestling Game | Device: Amazon KFSNWI | ID: 9fd0a07f-54d1-4c4f-9bdc-f681a3cb7b3e
 [5/27/2026 12:41:55 PM] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: ef2e38c9-bb8f-43f3-b590-26c8a77290cc
+[27.05.2026 19:42:41] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
