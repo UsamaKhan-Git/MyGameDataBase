@@ -4859,3 +4859,4 @@
 [5/28/2026 8:53:17 AM] Game: Loin Hunting | Device: Amazon KFQUWI | ID: 29ffb759-b7f9-45b9-8163-170cc5925ad1
 [5/28/2026 8:54:01 AM] Game: Loin Hunting | Device: Amazon KFQUWI | ID: 29ffb759-b7f9-45b9-8163-170cc5925ad1
 [28/05/2026 08:56:24] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 3d6d65e4-6fcd-4e44-8d36-b6c7a2761164
+[28/05/2026 14:07:50] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: be381c6e-4fa9-4271-b715-50ce2a0d6b34
