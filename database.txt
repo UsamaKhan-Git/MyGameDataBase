@@ -4925,3 +4925,4 @@
 [5/29/2026 10:22:01 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: e517b29b-0b62-4135-b822-091f0450829b
 [29/05/2026 15:29:32] Game: Build Plane Game | Device: Amazon KFTUWI | ID: 773390b0-ea35-4918-a1ca-f9bac91bbf2b
 [5/29/2026 10:52:22 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: e517b29b-0b62-4135-b822-091f0450829b
+[29/05/2026 16:32:51] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: be381c6e-4fa9-4271-b715-50ce2a0d6b34
