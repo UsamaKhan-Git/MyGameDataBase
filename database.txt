@@ -5060,3 +5060,4 @@
 [30.05.2026 18:22:19] Game: Doll Project | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [30.05.2026 18:22:39] Game: Doll Project | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [5/30/2026 11:29:45 AM] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 19ea867f-51d3-40f7-9b10-9568056064b2
+[5/30/2026 12:08:53 PM] Game: Steal And Run Game | Device: Amazon KFKAWI | ID: 86e0ae44-67b0-416d-bcff-33cac21c1e2b
