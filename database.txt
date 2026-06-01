@@ -5255,3 +5255,4 @@
 [31/05/2026 22:22:42] Game: Wedding Day DressUp | Device: Amazon KFQUWI | ID: 72cdd92e-8adc-4c0e-ba44-561b6be3fec6
 [31/05/2026 20:31:21] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: 1f536262-1f23-49c2-b0d5-cfec241ce771
 [5/31/2026 10:56:45 PM] Game: 99 Night survival | Device: Amazon KFTRWI | ID: 8cd611e8-06bf-4c56-b4ff-2ea40d7dffee
+[2026/06/01 12:01:59] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: ac014b96-f162-4bdd-8282-b2052c5e6bc0
