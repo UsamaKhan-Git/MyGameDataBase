@@ -5389,3 +5389,4 @@
 [6/2/2026 9:51:08 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 6ce0c601-414a-40f1-a22f-d2adaff57151
 [6/2/2026 10:11:09 a. m.] Game: Steal And Run Game | Device: Amazon AFTKRT | ID: 385884d5-fca3-4f69-ab4e-76a211da7a87
 [6/2/2026 10:11:30 a. m.] Game: Steal And Run Game | Device: Amazon AFTKRT | ID: 385884d5-fca3-4f69-ab4e-76a211da7a87
+[6/2/2026 3:31:59 PM] Game: Ant Simulator | Device: Amazon KFTUWI | ID: a5ba98ff-d0f6-43e4-9c55-2ee48daf32bc
