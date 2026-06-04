@@ -5562,3 +5562,4 @@
 [6/4/2026 6:33:14 AM] Game: Build New Plane Game | Device: Amazon KFONWI | ID: 81dbc772-7d83-4523-b350-8f7b5250f4ae
 [04.06.2026 13:35:43] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 88b24455-d2e8-4b53-a44d-38983b76535a
 [6/4/2026 7:36:23 AM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: ae4cc591-8eb5-45ed-8c53-3e62ce89ff03
+[04.06.2026 13:45:51] Game: Bus Simulator | Device: Amazon KFTRWI | ID: e175ca0d-8402-48c5-870b-2d540a7cfa3c
