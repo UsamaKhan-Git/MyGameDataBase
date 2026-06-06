@@ -5878,3 +5878,4 @@
 [6/6/2026 2:50:43 PM] Game: Wedding Day DressUp | Device: Amazon KFTRWI | ID: b2026541-4e86-473b-af41-f35a0658d393
 [6/6/2026 2:55:09 PM] Game: Wedding Day DressUp | Device: Amazon KFTRWI | ID: b2026541-4e86-473b-af41-f35a0658d393
 [6/6/2026 3:55:56 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: 14c10af4-bccb-4252-87c1-51a3460aa167
+[6/6/2026 3:56:47 p. m.] Game: Steal And Run Game | Device: Amazon AFTSS | ID: d7e5d034-2e94-433e-958e-24bc18daad1c
