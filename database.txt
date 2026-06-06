@@ -5895,3 +5895,4 @@
 [6/6/2026 5:54:21 PM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
 [6/6/2026 5:57:09 PM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
 [6/6/2026 5:58:30 PM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
+[6/6/2026 6:01:12 PM] Game: Doll Project | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
