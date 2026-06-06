@@ -5860,3 +5860,4 @@
 [06.06.2026 21:00:55] Game: Build New Plane Game | Device: Amazon KFTUWI | ID: 4c972ae5-8488-4a87-bb21-70360200b4d6
 [06.06.2026 21:02:18] Game: Build New Plane Game | Device: Amazon KFTUWI | ID: 4c972ae5-8488-4a87-bb21-70360200b4d6
 [6/6/2026 3:03:11 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: fb5c63f6-9b66-4eb2-b7a2-6f67d8b15fcf
+[06/06/2026 01:06:13 p. m.] Game: Doll Project | Device: Amazon KFTUWI | ID: 6c72edf7-319b-469f-827f-26c5af170abc
