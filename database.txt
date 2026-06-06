@@ -5812,3 +5812,4 @@
 [6/6/2026 9:01:46 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 4f3ddbe5-6f71-4209-883d-77c98e7e4863
 [6/6/2026 9:03:17 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 4f3ddbe5-6f71-4209-883d-77c98e7e4863
 [6/6/2026 9:05:05 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 4f3ddbe5-6f71-4209-883d-77c98e7e4863
+[6/6/2026 10:14:05 AM] Game: 99 Night survival challange | Device: Amazon KFRAPWI | ID: b260f900-03c5-4306-bb66-174bc0653248
