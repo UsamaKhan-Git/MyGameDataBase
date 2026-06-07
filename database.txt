@@ -5953,3 +5953,4 @@
 [2026/06/07 18:10:10] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: e452e1ec-4391-4c4c-9f04-2df80b6355ae
 [6/7/2026 6:51:59 AM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
 [6/7/2026 6:53:22 AM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
+[6/7/2026 6:54:31 AM] Game: Doll Project | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
