@@ -5955,3 +5955,4 @@
 [6/7/2026 6:53:22 AM] Game: Rope hero  games | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
 [6/7/2026 6:54:31 AM] Game: Doll Project | Device: Amazon KFMUWI | ID: b4a61731-81ca-45b5-8ac7-9f5535631aaa
 [2026/06/07 20:17:10] Game: Makeup Zombie ASMR | Device: Amazon KFTUWI | ID: df409510-078c-4011-82c9-8185207d3c00
+[07.06.2026 13:29:52] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 69566929-c4d6-48f3-b783-1a22f804bafe
