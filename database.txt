@@ -6052,3 +6052,4 @@
 [08.06.2026 12:38:42] Game: Doll Project | Device: Amazon KFRAWI | ID: 39258996-7a2c-4942-b9f4-ef580f22f83f
 [6/8/2026 6:27:35 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 3488f535-4e25-4a4a-bb4a-f0fc44bf8539
 [6/8/2026 7:36:24 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 560d5e6a-ac49-4040-9570-2de5a1bbef53
+[6/8/2026 6:10:45 PM] Game: Doll Project | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
