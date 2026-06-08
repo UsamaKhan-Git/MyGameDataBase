@@ -6087,3 +6087,4 @@
 [6/8/2026 3:33:45 PM] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 10166200-7834-4660-becf-d660bc2d6c32
 [6/8/2026 3:36:26 PM] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 10166200-7834-4660-becf-d660bc2d6c32
 [6/8/2026 3:37:14 PM] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 10166200-7834-4660-becf-d660bc2d6c32
+[6/8/2026 4:49:24 PM] Game: Ant Simulator | Device: Amazon KFRAWI | ID: 38bf02db-6f8d-4599-86f7-7e38376473c9
