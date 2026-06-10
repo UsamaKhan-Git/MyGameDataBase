@@ -6191,3 +6191,4 @@
 [2026/06/10 18:00:44] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 918cc250-9160-4a0d-8220-27ee0cb37d09
 [10.06.2026 12:58:58] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 88b24455-d2e8-4b53-a44d-38983b76535a
 [6/10/2026 4:27:15 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: e3ef2fb0-3f72-47a4-8e7d-f658242887c2
+[6/10/2026 5:47:08 AM] Game: Granny Annty | Device: Amazon AFTDEC012E | ID: 186e2520-d7b6-46fa-be17-70909d7a010d
