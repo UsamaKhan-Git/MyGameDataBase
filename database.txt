@@ -6294,3 +6294,4 @@
 [12.06.2026 18:35:22] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: e4eb796a-c281-4411-847b-b4715c789e20
 [12.06.2026 18:53:57] Game: Doll Project | Device: Amazon AFTKRT | ID: 37349674-d149-468e-a0c2-78825d738a71
 [6/12/2026 11:59:08 AM] Game: Build Plane Game | Device: Amazon KFONWI | ID: dc0896b2-cd66-4566-8b77-1ff87a9f76fe
+[12.06.2026 19:31:52] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
