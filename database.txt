@@ -6292,3 +6292,4 @@
 [6/12/2026 10:15:03 AM] Game: 99 Night survival | Device: Amazon KFRASWI | ID: c631b3dc-c7d9-4fb5-ab84-08957fcdf7cc
 [6/12/2026 12:02:26 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 07fd0886-dbe4-4498-b54a-363009b35eab
 [12.06.2026 18:35:22] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: e4eb796a-c281-4411-847b-b4715c789e20
+[12.06.2026 18:53:57] Game: Doll Project | Device: Amazon AFTKRT | ID: 37349674-d149-468e-a0c2-78825d738a71
