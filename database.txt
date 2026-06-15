@@ -6353,3 +6353,4 @@
 [6/14/2026 6:09:09 PM] Game: 99 Night survival challange | Device: Amazon KFRAWI | ID: e4dc6687-3b71-4b56-9821-88facb11ab8e
 [6/14/2026 4:22:58 PM] Game: Makeup Zombie ASMR | Device: Amazon KFONWI | ID: 6b655c24-905f-40b0-b175-ee3fe62b7067
 [6/14/2026 5:10:29 PM] Game: Makeup Zombie ASMR | Device: Amazon KFONWI | ID: 6b655c24-905f-40b0-b175-ee3fe62b7067
+[15.06.2026 07:18:57] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 646c80e0-b504-4cfa-a04f-2e57496f072e
