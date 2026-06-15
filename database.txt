@@ -6358,3 +6358,4 @@
 [2026/06/15 19:34:14] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 918cc250-9160-4a0d-8220-27ee0cb37d09
 [6/15/2026 5:09:35 PM] Game: Hair Salon | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [6/15/2026 5:24:49 PM] Game: Eye Art Game | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[6/15/2026 5:58:00 PM] Game: LineDraw | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
