@@ -6374,3 +6374,4 @@
 [6/16/2026 11:48:35 AM] Game: Hair Salon | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2026-06-16 7:14:07 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 712c54c0-330f-4421-b9a8-3f2a3124b1d5
 [2026-06-16 7:15:39 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 712c54c0-330f-4421-b9a8-3f2a3124b1d5
+[16.06.2026 14:42:31] Game: ASMR Makeover Beauty | Device: Amazon KFTRWI | ID: dbfeaef3-d7ed-4c43-b444-d6c3729c1c03
