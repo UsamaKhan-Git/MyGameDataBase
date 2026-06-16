@@ -6402,3 +6402,4 @@
 [16.06.2026 19:17:12] Game: BMXCycle Game | Device: Amazon KFKAWI | ID: dbe9969a-1300-4ba8-afd6-cea4504eac77
 [16/06/2026 18:30:53] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 25c7774f-15eb-45b0-b890-3094a17fd281
 [6/16/2026 2:31:28 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 31c5b54b-4ff2-4e6e-90bc-51819619edde
+[6/16/2026 3:15:03 PM] Game: 99 Night survival challange | Device: Amazon KFRAWI | ID: e4dc6687-3b71-4b56-9821-88facb11ab8e
