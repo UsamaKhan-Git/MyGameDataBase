@@ -6419,3 +6419,4 @@
 [6/17/2026 3:13:41 PM] Game: Granny Annty | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [6/17/2026 3:18:01 PM] Game: Granny Annty | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [6/17/2026 3:50:55 PM] Game: Moto Bike Race | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[6/17/2026 7:56:14 AM] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 2d027379-8571-4ce2-bdb8-c57629953ab7
