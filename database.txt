@@ -6457,3 +6457,4 @@
 [6/17/2026 10:50:39 PM] Game: 99 Night survival | Device: Amazon KFRAPWI | ID: 72c6709f-7cdd-4c57-bc5e-8c4352ffebf5
 [6/18/2026 11:27:30 AM] Game: Lion Hunting | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [6/18/2026 8:11:27 AM] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: b9811305-bb0a-4bd1-a3bd-99a310e1b002
+[6/18/2026 10:14:57 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: c361aa97-2b14-4186-866a-6e7e308f3d81
