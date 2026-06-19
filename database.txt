@@ -6514,3 +6514,4 @@
 [6/19/2026 10:24:07 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 03cbd22e-b0eb-4b21-80b9-7ed131fc5245
 [19/06/2026 16:31:30] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: c7e346f9-49e8-43de-972c-c87886778cc4
 [6/19/2026 11:06:28 AM] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 2d027379-8571-4ce2-bdb8-c57629953ab7
+[19.06.2026 18:07:13] Game: RopeHero | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
