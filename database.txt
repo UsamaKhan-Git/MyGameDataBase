@@ -6560,3 +6560,4 @@
 [2026-06-20 3:09:20 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [6/20/2026 2:25:25 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [6/20/2026 1:52:20 PM] Game: Granny Annty | Device: Amazon KFONWI | ID: 8784c31a-142b-48c7-aef3-5135ecb4d303
+[6/20/2026 3:30:55 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 8ae01cfa-ba6b-468a-b3c1-0c5dbaed5f64
