@@ -6556,3 +6556,4 @@
 [20/06/2026 5:46:53 PM] Game: Soccer Game | Device: Amazon KFTUWI | ID: 61ef5788-ef1b-43ad-88a2-d8994ba81106
 [6/20/2026 2:54:12 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 4fe572e0-3d30-432f-ace8-753f4a422a7b
 [20/06/2026 19:55:35] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
+[20/06/2026 19:56:58] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 5768dd9e-4d78-4680-a266-d26b8ad4b592
