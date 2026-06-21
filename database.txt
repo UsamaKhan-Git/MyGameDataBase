@@ -6571,3 +6571,4 @@
 [21/06/2026 8:15:03 AM] Game: Soccer Game | Device: Amazon KFTUWI | ID: 61ef5788-ef1b-43ad-88a2-d8994ba81106
 [21/06/2026 09:18:16] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 549c3032-08a5-499b-8427-92a1cd009a0c
 [21/06/2026 09:32:40] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 5768dd9e-4d78-4680-a266-d26b8ad4b592
+[2026/06/21 19:03:40] Game: Doll Project | Device: Amazon KFTUWI | ID: 21fa295c-3648-43ef-8772-0b2b7d61cc47
