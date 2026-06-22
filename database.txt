@@ -6612,3 +6612,4 @@
 [22/06/2026 17:52:46] Game: Doll Project | Device: Amazon KFRAPWI | ID: 2bf333c9-1cde-41c2-84eb-cb5f83393f20
 [22/06/2026 18:02:34] Game: Rope hero  games | Device: Amazon KFRAWI | ID: 7d042f10-5241-4123-aaa7-536907d48b0e
 [22/06/2026 18:11:08] Game: Rope hero  games | Device: Amazon KFRAWI | ID: 7d042f10-5241-4123-aaa7-536907d48b0e
+[22/06/2026 6:04:03 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: dd97d19a-0c63-4a3b-af70-215ef170c935
