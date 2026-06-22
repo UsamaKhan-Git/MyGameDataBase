@@ -6609,3 +6609,4 @@
 [22/06/2026 16:31:10] Game: Build Plane Game | Device: Amazon KFRAWI | ID: a68e20c1-6618-463f-a448-91f624da79e3
 [6/22/2026 8:33:00 PM] Game: Rope hero  games | Device: Amazon KFSUWI | ID: a33ca11a-0b08-4cff-83b7-b6531fe4ad7a
 [22/06/2026 16:50:45] Game: Build Plane Game | Device: Amazon KFRAWI | ID: a68e20c1-6618-463f-a448-91f624da79e3
+[22/06/2026 17:52:46] Game: Doll Project | Device: Amazon KFRAPWI | ID: 2bf333c9-1cde-41c2-84eb-cb5f83393f20
