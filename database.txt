@@ -6647,3 +6647,4 @@
 [23/06/2026 16:14:29] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 5768dd9e-4d78-4680-a266-d26b8ad4b592
 [6/23/2026 9:28:09 AM] Game: Eye Art Game | Device: Amazon KFTUWI | ID: b99e4c5a-c66b-4c4c-a8f9-03e3d09d7baa
 [23/06/2026 4:31:12 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: dd97d19a-0c63-4a3b-af70-215ef170c935
+[6/23/2026 12:42:18 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
