@@ -6638,3 +6638,4 @@
 [6/22/2026 9:56:05 PM] Game: Eye Art Game | Device: Amazon KFTUWI | ID: b99e4c5a-c66b-4c4c-a8f9-03e3d09d7baa
 [6/22/2026 10:25:02 PM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 3a0a6b67-86c8-4201-a21b-6ad84c88b504
 [6/23/2026 1:50:23 PM] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 8a1a79c8-5448-48fb-9f74-e430f11838b7
+[23.06.2026 13:14:42] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 0f4bbe21-0e67-4896-8dd4-7d58ee6c948e
