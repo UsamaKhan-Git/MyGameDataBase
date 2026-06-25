@@ -6679,3 +6679,4 @@
 [6/24/2026 9:11:22 PM] Game: Build Plane Game | Device: Amazon KFSNWI | ID: b4e4f76e-1ca5-4661-9237-1f9d77bed0aa
 [2026/06/25 19:13:00] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 8eadf363-e41a-46b8-81c5-16a079e72dfb
 [2026/06/25 19:24:10] Game: Makeup Zombie ASMR | Device: Amazon KFTUWI | ID: df409510-078c-4011-82c9-8185207d3c00
+[6/25/2026 12:43:09 PM] Game: Steal And Run Game | Device: Amazon AFTSS | ID: 6be4161e-048e-4de0-9c3c-91f33cfa6e98
