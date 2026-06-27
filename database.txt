@@ -6759,3 +6759,4 @@
 [6/27/2026 7:42:10 PM] Game: Bus Simulator | Device: Amazon AFTMM | ID: ae0536bf-eabb-40de-920e-40c908fddc9c
 [6/27/2026 1:13:11 PM] Game: Build Plane Game | Device: Amazon KFTUWI | ID: 93a4cff8-e6e0-4b6d-9979-72739e798280
 [6/27/2026 4:44:51 PM] Game: Build Plane Game | Device: Amazon KFTUWI | ID: e199d47c-d8e4-4cac-85a3-ebdd8a7da274
+[6/27/2026 5:14:04 PM] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: 7e67a59c-7ae5-4971-83b1-e0ceac0c6a5a
