@@ -6783,3 +6783,4 @@
 [28/06/2026 09:13:53] Game: ASMR Makeover Beauty | Device: Amazon KFQUWI | ID: 584e56cd-c49b-4cde-a513-33126cca4b8e
 [28/06/2026 09:14:38] Game: ASMR Makeover Beauty | Device: Amazon KFQUWI | ID: 584e56cd-c49b-4cde-a513-33126cca4b8e
 [28/06/2026 09:15:34] Game: ASMR Makeover Beauty | Device: Amazon KFQUWI | ID: 584e56cd-c49b-4cde-a513-33126cca4b8e
+[6/28/2026 12:13:06 PM] Game: Moto Bike Race | Device: Amazon KFTUWI | ID: 3e2f6b5f-88bc-4e74-978a-5bacf09cd371
