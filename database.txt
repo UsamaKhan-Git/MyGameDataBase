@@ -6774,3 +6774,4 @@
 [2026-06-27 7:54:51 PM] Game: Wedding Day DressUp | Device: Amazon KFTRWI | ID: 7006b024-cc39-4bfe-9565-bdbf8e5d334c
 [6/27/2026 6:56:59 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [6/27/2026 8:19:51 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: ffd802b8-4d0f-4a42-a5c2-284d78e81e3a
+[6/27/2026 10:21:52 PM] Game: Rope hero  games | Device: Amazon KFTUWI | ID: 628171ae-ce76-4fd9-87f5-214a51c67b71
