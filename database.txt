@@ -6938,3 +6938,4 @@
 [7/2/2026 11:50:04 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: b68a12a9-a19a-45e1-bd64-40a79974405f
 [02.07.2026 22:00:18] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [02.07.2026 22:13:41] Game: Doll Project | Device: Amazon KFTRWI | ID: acc3b8e8-12f0-42a0-93c0-2f87796d944c
+[02.07.2026 22:22:13] Game: ASMR Makeover Beauty | Device: Amazon KFMAWI | ID: c042f094-4573-4845-a8ea-56d1975d8b85
