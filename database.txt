@@ -6955,3 +6955,4 @@
 [7/3/2026 3:28:33 PM] Game: BabyJr | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [03.07.2026 12:56:02] Game: Doll Project | Device: Amazon KFONWI | ID: a395405f-bd02-4b72-ae8c-db6aabb10fef
 [7/3/2026 7:42:30 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
+[7/3/2026 8:47:19 AM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 3cb43d79-af75-47bd-ad06-cd3630f3a299
