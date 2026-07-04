@@ -7013,3 +7013,4 @@
 [7/4/2026 12:21:16 PM] Game: Loin Hunting | Device: Amazon KFTUWI | ID: ae0a777a-8b5b-437e-a780-a5b190002690
 [7/4/2026 12:23:15 PM] Game: Loin Hunting | Device: Amazon KFTUWI | ID: ae0a777a-8b5b-437e-a780-a5b190002690
 [04/07/2026 18:47:45] Game: Build Plane Game | Device: Amazon KFRAWI | ID: a68e20c1-6618-463f-a448-91f624da79e3
+[04.07.2026 19:57:13] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 0fa62dd6-71f7-4ef0-aba1-856b8f4dc5ee
