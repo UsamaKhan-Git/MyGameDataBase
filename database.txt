@@ -7030,3 +7030,4 @@
 [2026-07-04 8:55:42 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: 10140d0d-bf04-43c0-97bc-7a6083965b4d
 [05.07.2026 09:34:36] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: 02ed78ec-5f16-43bf-931c-e4e51589abc0
 [05.07.2026 09:47:55] Game: Build Plane Game | Device: Amazon KFTRWI | ID: 02ed78ec-5f16-43bf-931c-e4e51589abc0
+[05.07.2026 11:31:26] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 69566929-c4d6-48f3-b783-1a22f804bafe
