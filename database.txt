@@ -7068,3 +7068,4 @@
 [06/07/2026 12:28:57] Game: ASMR Makeover Beauty | Device: Amazon KFQUWI | ID: 584e56cd-c49b-4cde-a513-33126cca4b8e
 [7/6/2026 8:00:56 AM] Game: Build Plane Game | Device: Amazon KFTUWI | ID: 6e3abdb0-3205-44d6-9c4d-5b6afe8eea6a
 [7/6/2026 8:01:51 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 819db1b0-f684-46d9-88c3-c8050edcf168
+[7/6/2026 10:24:10 AM] Game: Granny Annty | Device: Amazon KFQUWI | ID: 0af3581a-5020-408a-aa24-a7ef999ba7f2
