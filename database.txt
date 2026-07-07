@@ -7087,3 +7087,4 @@
 [7/6/2026 8:17:37 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 9b9d7007-6d61-4e60-989b-9b1bed36df9e
 [7/6/2026 10:07:44 PM] Game: Wedding Day DressUp | Device: Amazon KFTUWI | ID: 8d6435f4-3272-498f-978d-13147337c3bb
 [07.07.2026 08:15:46] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 460206bf-853e-487b-81b4-eb3102eee21b
+[7/7/2026 12:06:20 PM] Game: Steal And Run Game | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
