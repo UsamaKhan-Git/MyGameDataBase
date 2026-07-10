@@ -7260,3 +7260,4 @@
 [7/9/2026 8:07:08 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 40109d73-df54-4ed4-9256-e59dff8a0b9a
 [7/9/2026 8:25:58 PM] Game: Build Plane Game | Device: Amazon KFTRWI | ID: bc1e23af-b430-406a-a69e-dd9584675efe
 [7/9/2026 8:28:43 PM] Game: Build Plane Game | Device: Amazon KFTRWI | ID: bc1e23af-b430-406a-a69e-dd9584675efe
+[7/10/2026 12:59:04 AM] Game: Granny Annty | Device: Amazon KFQUWI | ID: 298a6fba-9609-4c5a-b2c7-7ff636ac71fd
