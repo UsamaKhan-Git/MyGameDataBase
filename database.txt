@@ -7269,3 +7269,4 @@
 [7/10/2026 11:56:49 AM] Game: Hole Master | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [10.07.2026 10:14:15] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: bb8e2856-941f-4e5e-bdbf-6fae53cc942c
 [7/10/2026 1:21:56 PM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[7/10/2026 11:12:30 AM] Game: ASMR Makeover Beauty | Device: Amazon KFONWI | ID: 77bfc76b-154d-4a1b-b112-e11f22e24c56
