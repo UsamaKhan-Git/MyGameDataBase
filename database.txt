@@ -7267,3 +7267,4 @@
 [10/07/2026 07:52:19] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: 12123699-2bf0-4a3f-91c2-b28b22642197
 [10/07/2026 07:55:32] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: 12123699-2bf0-4a3f-91c2-b28b22642197
 [7/10/2026 11:56:49 AM] Game: Hole Master | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[10.07.2026 10:14:15] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: bb8e2856-941f-4e5e-bdbf-6fae53cc942c
