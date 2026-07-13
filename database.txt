@@ -7379,3 +7379,4 @@
 [7/13/2026 8:19:41 AM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 81dbc772-7d83-4523-b350-8f7b5250f4ae
 [7/13/2026 6:55:58 AM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 00000000-0000-0000-0000-000000000000
 [13.07.2026 16:04:33] Game: Doll Project | Device: Amazon KFTRWI | ID: 483db277-ed60-4c6f-8c1b-986b56419f13
+[13.07.2026 16:08:47] Game: Wedding Day DressUp | Device: Amazon KFTRWI | ID: 483db277-ed60-4c6f-8c1b-986b56419f13
