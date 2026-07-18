@@ -7599,3 +7599,4 @@
 [7/17/2026 9:22:38 PM] Game: Build Plane Game | Device: Amazon KFTUWI | ID: 51f37f37-f99c-426b-bfcc-57d2eaf6d49a
 [18.07.2026 08:47:53] Game: Soccer Game | Device: Amazon KFRAPWI | ID: 23524d64-bb19-4a29-940e-cbbdeb0257fa
 [7/17/2026 9:52:14 PM] Game: Real Wrestling Game | Device: Amazon KFQUWI | ID: d1352a39-82c4-468f-9d64-e3c0c2b3c802
+[18.07.2026 10:17:57] Game: Doll Project | Device: Amazon KFTRWI | ID: acc3b8e8-12f0-42a0-93c0-2f87796d944c
