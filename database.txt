@@ -7702,3 +7702,4 @@
 [22/07/2026 17:34:14] Game: Doll Project | Device: Amazon KFRAWI | ID: 345279d2-181e-408d-b4db-73009de9628b
 [7/22/2026 1:45:23 PM] Game: Build Plane Game | Device: Amazon KFRAPWI | ID: 4883e015-30a3-4791-8287-082972a9dd03
 [7/22/2026 1:26:39 PM] Game: Real Wrestling Game | Device: Amazon KFQUWI | ID: d1352a39-82c4-468f-9d64-e3c0c2b3c802
+[22/07/2026 21:23:42] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 5fea32b3-eb27-488c-8190-a3dc44a2dada
