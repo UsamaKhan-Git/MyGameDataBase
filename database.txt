@@ -7706,3 +7706,4 @@
 [22/07/2026 21:30:50] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 5fea32b3-eb27-488c-8190-a3dc44a2dada
 [22/07/2026 21:56:57] Game: 99 Night survival | Device: Amazon KFQUWI | ID: 5fea32b3-eb27-488c-8190-a3dc44a2dada
 [7/22/2026 10:29:00 PM] Game: Granny Annty | Device: Amazon KFTRWI | ID: 9b372c31-0bd5-474c-8c27-ca97125d9c88
+[7/23/2026 12:29:08 PM] Game: Doll Project | Device: Amazon KFMUWI | ID: de61a296-9866-4baf-be92-e89e0e4e7ce2
