@@ -7723,3 +7723,4 @@
 [7/23/2026 3:37:36 PM] Game: Granny Annty | Device: Amazon KFTRWI | ID: 9b372c31-0bd5-474c-8c27-ca97125d9c88
 [7/23/2026 6:16:47 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: f627ceee-4a05-480c-be74-c0a96f9d96ff
 [7/23/2026 6:56:23 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: f627ceee-4a05-480c-be74-c0a96f9d96ff
+[23/07/2026 20:17:45] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 5fea32b3-eb27-488c-8190-a3dc44a2dada
