@@ -7729,3 +7729,4 @@
 [7/24/2026 10:48:59 AM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [7/24/2026 10:49:32 AM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2026/07/24 18:05:38] Game: Steal And Run Game | Device: Amazon KFONWI | ID: ee1893f7-5a19-41a5-a715-6be33ded5fd2
+[7/24/2026 12:18:30 PM] Game: Doll Project | Device: Amazon KFMUWI | ID: de61a296-9866-4baf-be92-e89e0e4e7ce2
