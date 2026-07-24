@@ -7739,3 +7739,4 @@
 [24/07/2026 11:26:15] Game: Doll Project | Device: Amazon KFRAWI | ID: 345279d2-181e-408d-b4db-73009de9628b
 [2026/07/24 23:39:46] Game: Loin Hunting | Device: Amazon KFQUWI | ID: 2fb412b4-aa6b-48d1-bdef-e45ae7544b29
 [24/07/2026 10:53:25 AM] Game: Steal And Run Game | Device: Amazon KFONWI | ID: f10a2f7b-b9ce-4460-957e-ba1c13f527ca
+[7/24/2026 12:19:03 PM] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: ea265213-c488-4570-9b31-407c43045448
