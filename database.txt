@@ -7755,3 +7755,4 @@
 [7/25/2026 9:08:12 AM] Game: Moto Bike Race | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [7/25/2026 9:41:40 AM] Game: Moto Bike Race | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [25/07/2026 6:14:40 PM] Game: 99 Night survival | Device: Amazon AFTKM | ID: 4c35031c-87e7-4e7b-bab7-cfe45d26fa6c
+[7/25/2026 11:06:55 AM] Game: Doll Project | Device: Amazon KFTUWI | ID: 9ea14221-5444-4ae1-b86a-8bf366788ad7
