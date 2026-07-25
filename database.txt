@@ -7748,3 +7748,4 @@
 [2026-07-24 5:48:47 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [24/07/2026 19:39:16] Game: Doll Project | Device: Amazon KFRAWI | ID: 345279d2-181e-408d-b4db-73009de9628b
 [24/07/2026 21:53:06] Game: Doll Project | Device: Amazon KFRAWI | ID: 345279d2-181e-408d-b4db-73009de9628b
+[7/24/2026 11:06:09 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 984db3f5-0ca6-4177-a693-49b168895249
