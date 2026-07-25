@@ -7768,3 +7768,4 @@
 [25/07/2026 15:25:00] Game: Wedding Day DressUp | Device: Amazon KFRAWI | ID: 546bd648-1227-4c53-a9ca-4fdb0e9c9f08
 [25/07/2026 16:02:46] Game: Wedding Day DressUp | Device: Amazon KFRAWI | ID: 546bd648-1227-4c53-a9ca-4fdb0e9c9f08
 [25.07.2026 23:21:50] Game: ASMR Makeover Beauty | Device: Amazon KFMAWI | ID: c042f094-4573-4845-a8ea-56d1975d8b85
+[2026-07-25 5:37:49 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 00000000-0000-0000-0000-000000000000
