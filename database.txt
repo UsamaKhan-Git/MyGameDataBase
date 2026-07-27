@@ -7827,3 +7827,4 @@
 [7/27/2026 10:28:59 AM] Game: Loin Hunting | Device: Amazon KFTUWI | ID: 3595274f-8c07-40f6-a2a1-8e5f3844a7ab
 [27.07.2026 17:30:01] Game: Real Wrestling Game | Device: Amazon KFTUWI | ID: 460206bf-853e-487b-81b4-eb3102eee21b
 [7/27/2026 10:10:17 PM] Game: Wedding Day DressUp | Device: Amazon KFONWI | ID: 01ca69e9-e007-4f58-bd30-4dee13e7b97c
+[27/07/2026 17:23:57] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: 6b40ba16-edde-4229-b617-79d2925cbb1e
