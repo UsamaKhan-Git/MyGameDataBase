@@ -7813,3 +7813,4 @@
 [27/07/2026 11:56:50] Game: Wedding Day DressUp | Device: Amazon KFRAWI | ID: 2ddeb50b-baf6-4259-8744-13a28de3289e
 [27/07/2026 11:58:07] Game: Wedding Day DressUp | Device: Amazon KFRAWI | ID: 2ddeb50b-baf6-4259-8744-13a28de3289e
 [27/07/2026 11:59:28] Game: Wedding Day DressUp | Device: Amazon KFRAWI | ID: 2ddeb50b-baf6-4259-8744-13a28de3289e
+[27.07.2026 15:34:08] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: d0fb8c1d-5ca8-4b34-a856-0f2af644f12d
