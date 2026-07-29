@@ -7875,3 +7875,4 @@
 [7/29/2026 12:06:24 AM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 00000000-0000-0000-0000-000000000000
 [7/29/2026 6:08:36 PM] Game: Wedding Day DressUp | Device: Amazon KFONWI | ID: 01ca69e9-e007-4f58-bd30-4dee13e7b97c
 [2026-07-29 8:11:47 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: a0eb135d-bacb-4ac7-ac68-b4e3ddc4112f
+[29.07.2026 16:27:24] Game: Ant Simulator | Device: Amazon KFTUWI | ID: 16b53d7a-7fac-4837-98bf-3161d5541350
