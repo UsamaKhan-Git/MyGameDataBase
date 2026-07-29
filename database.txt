@@ -7899,3 +7899,4 @@
 [2026-07-29 4:38:50 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [2026-07-29 4:40:47 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [29/07/2026 18:18:30] Game: Doll Project | Device: Amazon KFRAWI | ID: 345279d2-181e-408d-b4db-73009de9628b
+[7/29/2026 5:31:07 p. m.] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: 1feccfce-677b-4f5f-a284-81acad66784e
