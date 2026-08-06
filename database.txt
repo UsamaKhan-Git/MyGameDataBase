@@ -8078,3 +8078,4 @@
 [2026-08-06 11:43:17 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [06.08.2026 18:12:58] Game: Real Wrestling Game | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
 [06.08.2026 18:43:17] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
+[06.08.2026 19:22:40] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 96e7302c-5d34-430a-9534-05f1672263ea
