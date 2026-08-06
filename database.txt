@@ -8084,3 +8084,4 @@
 [06/08/2026 19:13:49] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 00000000-0000-0000-0000-000000000000
 [8/6/2026 12:25:36 PM] Game: Police Car Chase | Device: Amazon AFTKM | ID: ec21021a-b250-46bc-b40f-74cc57663b48
 [8/6/2026 5:39:36 PM] Game: Granny Annty | Device: Amazon AFTOLCBC82 | ID: 9280e636-71de-4fe1-8ff8-c45d86c81763
+[06/08/2026 17:03:39] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
