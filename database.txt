@@ -8111,3 +8111,4 @@
 [07.08.2026 17:40:51] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 9dabfab8-7a5f-4ac5-8695-439627d580f0
 [8/7/2026 9:24:58 AM] Game: Police Car Chase | Device: Amazon AFTKM | ID: b4c4c389-eb50-4b52-b94c-5de895d25fa5
 [2026-08-07 11:50:34 AM] Game: 99 Night survival challange | Device: Amazon KFRAWI | ID: 248d47fc-7cff-4b18-810c-9587551f9237
+[2026-08-07 1:09:12 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
