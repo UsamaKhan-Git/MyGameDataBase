@@ -8205,3 +8205,4 @@
 [8/10/2026 3:50:26 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: efa2b1cc-53b4-4a16-a80d-a3251fa92d62
 [10.08.2026 14:59:37] Game: Real Wrestling Game | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
 [10.08.2026 15:08:36] Game: RopeHero | Device: Amazon KFTRWI | ID: 19aebb25-76d4-4fd6-9a4d-699230b995db
+[8/10/2026 3:50:16 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 6f7905a3-a6fd-461d-bced-b06139a1514e
