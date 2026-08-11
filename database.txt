@@ -8223,3 +8223,4 @@
 [10/08/2026 22:47:21] Game: Granny Annty | Device: Amazon KFONWI | ID: 15369d09-7f44-46b0-8862-f10d03c9bd22
 [2026-08-11 8:16:49 AM] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: eae73b9f-fc42-4c11-97b7-cfd736e47fe8
 [2026-08-11 8:17:37 AM] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: eae73b9f-fc42-4c11-97b7-cfd736e47fe8
+[2026-08-11 9:21:00 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
