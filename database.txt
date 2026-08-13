@@ -8278,3 +8278,4 @@
 [2026-08-13 9:51:19 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [2026-08-13 9:57:35 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [2026-08-13 10:00:13 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
+[8/13/2026 10:11:42 AM] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 31c5b54b-4ff2-4e6e-90bc-51819619edde
