@@ -8268,3 +8268,4 @@
 [2026-08-12 8:53:25 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [2026-08-12 9:02:05 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [8/12/2026 6:17:49 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTRWI | ID: 2d063ec2-f898-486c-ae7d-84eec4333e39
+[8/12/2026 8:18:05 PM] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: 70d88572-684e-4924-8cd2-6fe1f2d055f6
