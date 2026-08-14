@@ -8298,3 +8298,4 @@
 [8/13/2026 5:25:49 PM] Game: Steal And Run Game | Device: Amazon KFMAWI | ID: 2be3f350-8ffb-4ea7-9e57-48dac3677c47
 [2026-08-13 5:32:39 PM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [8/13/2026 5:51:12 PM] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 31c5b54b-4ff2-4e6e-90bc-51819619edde
+[8/13/2026 11:01:49 PM] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: e6f4cdf7-dfd0-459d-b65d-0384dbf9b8e9
