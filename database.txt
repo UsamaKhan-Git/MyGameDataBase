@@ -8301,3 +8301,4 @@
 [8/13/2026 11:01:49 PM] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: e6f4cdf7-dfd0-459d-b65d-0384dbf9b8e9
 [14.08.2026 09:12:40] Game: Real Wrestling Game | Device: Amazon KFONWI | ID: 30ec197b-27a0-465c-b6ed-f9cb61171b6d
 [14/08/2026 08:41:22] Game: 99 Night survival challange | Device: Amazon KFMAWI | ID: 089a0c33-e985-4376-ad96-5cabc5ddc06f
+[14/08/2026 09:25:35] Game: ASMR Makeover Beauty | Device: Amazon KFTRWI | ID: 03e50e3a-5a15-4b70-bc2c-a47bc4c7d186
