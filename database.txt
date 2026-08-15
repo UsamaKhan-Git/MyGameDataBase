@@ -8349,3 +8349,4 @@
 [2026-08-15 11:40:33 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [15/08/2026 16:48:05] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [8/15/2026 12:54:13 PM] Game: Rope hero  games | Device: Amazon KFTUWI | ID: d103d993-bb1f-44e2-b5b7-2e88b055bf5a
+[8/15/2026 2:16:55 PM] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: e6f4cdf7-dfd0-459d-b65d-0384dbf9b8e9
