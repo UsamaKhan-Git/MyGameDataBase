@@ -8347,3 +8347,4 @@
 [15/08/2026 14:33:05] Game: 99 Night survival challange | Device: Amazon KFMAWI | ID: 089a0c33-e985-4376-ad96-5cabc5ddc06f
 [2026-08-15 11:15:59 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
 [2026-08-15 11:40:33 AM] Game: Doll Project | Device: Amazon AFTKM | ID: 16f44b87-9880-44f7-b2db-e2f400a1da99
+[15/08/2026 16:48:05] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
