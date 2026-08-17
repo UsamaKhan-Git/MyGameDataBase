@@ -8390,3 +8390,4 @@
 [8/17/2026 10:52:25 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 57244bc1-0dfd-46ef-b22e-796aea004192
 [8/17/2026 4:54:13 PM] Game: Police Car Chase | Device: Amazon AFTKM | ID: 902ab047-d924-489a-92fa-44eb71cce007
 [8/17/2026 5:04:43 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 6d020038-bab8-42b1-b8c8-f81a2a93bc77
+[17/08/2026 19:07:22] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 8a4c7db3-4505-444c-8124-d6b180e88ac8
