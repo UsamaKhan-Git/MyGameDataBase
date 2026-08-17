@@ -8384,3 +8384,4 @@
 [17/08/2026 15:29:06] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: 6b40ba16-edde-4229-b617-79d2925cbb1e
 [17/08/2026 15:29:50] Game: 99 Night survival challange | Device: Amazon KFQUWI | ID: 6b40ba16-edde-4229-b617-79d2925cbb1e
 [8/17/2026 11:41:24 a. m.] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 00000000-0000-0000-0000-000000000000
+[8/17/2026 12:01:51 PM] Game: Police Car Chase | Device: Amazon AFTALMO | ID: 83da0509-d0bc-44dc-b40f-dd25c8a6a224
