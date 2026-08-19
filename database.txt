@@ -8464,3 +8464,4 @@
 [8/19/2026 7:27:51 PM] Game: Hole Master | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/19/2026 7:31:52 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 1e69ed7d-f50d-4766-b1f1-4ec04e4387f6
 [8/19/2026 10:33:09 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 7ef7cba7-8dcc-4bfd-8256-51d28bb690b8
+[8/19/2026 3:42:29 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: c4b26e37-e577-427d-ab91-6ab01c797b55
