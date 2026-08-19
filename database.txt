@@ -8466,3 +8466,4 @@
 [8/19/2026 10:33:09 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 7ef7cba7-8dcc-4bfd-8256-51d28bb690b8
 [8/19/2026 3:42:29 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: c4b26e37-e577-427d-ab91-6ab01c797b55
 [8/19/2026 3:43:04 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: c4b26e37-e577-427d-ab91-6ab01c797b55
+[19/08/2026 10:56:40] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 5fea32b3-eb27-488c-8190-a3dc44a2dada
