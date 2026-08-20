@@ -8505,3 +8505,4 @@
 [8/20/2026 4:26:55 PM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/20/2026 4:27:51 PM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/20/2026 4:34:55 PM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[20/08/2026 12:36:48] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 6bd970f5-5016-4115-903d-bb010d1953c5
