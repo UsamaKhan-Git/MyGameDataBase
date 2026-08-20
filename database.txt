@@ -8500,3 +8500,4 @@
 [8/20/2026 2:40:23 PM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/20/2026 2:42:08 PM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/20/2026 3:02:33 PM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[20.08.2026 13:02:26] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 2576dd75-cb63-4037-a612-57cc5e259580
