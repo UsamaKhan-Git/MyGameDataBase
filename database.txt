@@ -8497,3 +8497,4 @@
 [8/20/2026 12:26:13 PM] Game: Hole Master | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [2026-08-20 03:39:50] Game: 99 Night survival challange | Device: Amazon KFRAWI | ID: 09e9d39d-b577-4c5c-a2e0-b0ed2dbd96c1
 [20/08/2026 09:17:02] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 2fb7bf4f-383d-425b-a981-ad24188791ee
+[8/20/2026 2:40:23 PM] Game: Police Car Chase | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
