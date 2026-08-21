@@ -8584,3 +8584,4 @@
 [21/08/2026 14:04:44] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 6a3cc7ea-afa8-46fd-a5de-016e98dff1eb
 [21/08/2026 14:07:06] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 6a3cc7ea-afa8-46fd-a5de-016e98dff1eb
 [21/08/2026 14:13:09] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 6a3cc7ea-afa8-46fd-a5de-016e98dff1eb
+[8/21/2026 2:20:32 PM] Game: Doll Project | Device: Amazon KFQUWI | ID: 5b520b86-6ae9-4051-abb0-f43a1b9ca86c
