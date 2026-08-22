@@ -8617,3 +8617,4 @@
 [8/22/2026 3:11:52 PM] Game: 99 Night survival challange | Device: Amazon KFMUWI | ID: 052f6cd0-81be-43ee-94a5-b433fe341c1b
 [22/08/2026 20:49:54] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: a7a97306-78c3-46ee-8ca7-47bd61104c8f
 [22/08/2026 14:01:56] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
+[8/22/2026 5:34:09 PM] Game: Ant Simulator | Device: Amazon AFTMM | ID: 28fc6dae-42d3-4211-9545-2076e2970349
