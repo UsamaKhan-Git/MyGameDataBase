@@ -8639,3 +8639,4 @@
 [8/23/2026 10:19:39 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: c71f28ee-0f04-4468-9c05-4590b2c9deb0
 [8/23/2026 10:21:06 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: c71f28ee-0f04-4468-9c05-4590b2c9deb0
 [8/23/2026 12:18:26 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: b3b3ef20-f729-4589-8136-6c67b541ad55
+[23/08/2026 11:32:40] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
