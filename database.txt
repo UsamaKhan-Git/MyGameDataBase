@@ -8627,3 +8627,4 @@
 [8/23/2026 12:13:35 AM] Game: BMXCycle Game | Device: Amazon KFTUWI | ID: e99c2440-148a-4d76-8614-60f07ad1b620
 [8/23/2026 1:21:20 AM] Game: Doll Project | Device: Amazon KFRAWI | ID: 012677ec-704f-4bfb-b1eb-ceb8dd9043c8
 [8/23/2026 1:21:55 AM] Game: Doll Project | Device: Amazon KFRAWI | ID: 012677ec-704f-4bfb-b1eb-ceb8dd9043c8
+[23.08.2026 10:25:09] Game: Steal And Run Game | Device: Amazon AFTKRT | ID: 00000000-0000-0000-0000-000000000000
