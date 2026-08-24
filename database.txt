@@ -8674,3 +8674,4 @@
 [8/24/2026 4:26:38 PM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/24/2026 4:28:46 PM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/24/2026 4:39:31 PM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[2026/08/24 20:41:29] Game: Build Plane Game | Device: Amazon KFTUWI | ID: 90dbcc59-2e33-4862-8713-218a5f7d3043
