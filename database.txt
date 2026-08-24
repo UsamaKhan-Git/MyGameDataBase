@@ -8709,3 +8709,4 @@
 [8/24/2026 7:55:48 PM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/24/2026 7:57:52 PM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [8/24/2026 8:01:57 PM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[8/24/2026 8:35:50 PM] Game: Hole Master | Device: Amazon AFTKA | ID: ca2077a9-a6cd-42cb-b091-b64539bb495b
