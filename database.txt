@@ -8652,3 +8652,4 @@
 [8/24/2026 9:47:25 AM] Game: Hole Master | Device: Amazon AFTMM | ID: 37c24bbe-a34e-494a-8b5f-767d68efeb23
 [8/24/2026 12:17:31 PM] Game: Hole Master | Device: Amazon AFTKRT | ID: 0fb57918-fb80-4133-b98c-006920e10ca8
 [8/24/2026 12:17:47 PM] Game: Hole Master | Device: Amazon KFTRWI | ID: 04229177-adc1-4bc8-aef3-a0a93eefbcb1
+[8/24/2026 9:47:55 AM] Game: Hole Master | Device: Amazon KFMUWI | ID: 63adfb20-c481-4c65-8d8c-a31236aff2b0
