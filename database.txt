@@ -8766,3 +8766,4 @@
 [8/26/2026 3:06:02 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [26/08/2026 20:19:59] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: bd7db785-f184-4070-9135-8079206be7d6
 [8/26/2026 1:11:25 PM] Game: Wedding Day DressUp | Device: Amazon KFSNWI | ID: f3dfb8f2-20a5-4972-8fa7-19b9dca4a1bb
+[8/26/2026 1:12:17 PM] Game: Crazy Makeover Artist | Device: Amazon KFSNWI | ID: f3dfb8f2-20a5-4972-8fa7-19b9dca4a1bb
