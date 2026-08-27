@@ -8782,3 +8782,4 @@
 [8/28/2026 12:44:24 AM] Game: Wedding Day DressUp | Device: Amazon KFONWI | ID: 01ca69e9-e007-4f58-bd30-4dee13e7b97c
 [8/27/2026 2:52:09 PM] Game: Real Wrestling Game | Device: Amazon KFMAWI | ID: acec329c-24f6-4ee5-9ace-8cc8e5d29c4e
 [27/08/2026 16:27:37] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: 7ed16769-3c70-440c-9cee-8023d9fe235f
+[8/27/2026 2:35:53 PM] Game: Ant Simulator | Device: Amazon KFTUWI | ID: 27bf7bfd-3878-4bb1-a50b-007e3a60684b
