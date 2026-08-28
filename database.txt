@@ -8797,3 +8797,4 @@
 [8/28/2026 4:18:58 PM] Game: Wedding Day DressUp | Device: Amazon KFTUWI | ID: 55e8ac34-0051-439b-bc72-1732256aacda
 [28/08/2026 16:05:59] Game: Crazy Makeover Artist | Device: Amazon KFRAWI | ID: 486b1a8e-cdde-4edd-869e-bbdc1e22c7e3
 [2026/08/29 0:38:15] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: f381accb-9dfc-4dc3-86ac-d5354f7a59c6
+[8/28/2026 12:07:26 PM] Game: 99 Night survival challange | Device: Amazon KFMUWI | ID: 052f6cd0-81be-43ee-94a5-b433fe341c1b
