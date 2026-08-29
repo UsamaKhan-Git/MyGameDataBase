@@ -8812,3 +8812,4 @@
 [8/28/2026 7:54:45 PM] Game: Real Wrestling Game | Device: Amazon KFONWI | ID: ebc671ed-03e0-4cb8-b751-207a4a05e287
 [8/28/2026 10:44:32 PM] Game: Wedding Day DressUp | Device: Amazon KFQUWI | ID: 215fcdd0-5fae-4a52-94c6-d9e8852d836b
 [29/08/2026 08:17:31] Game: Hole Master | Device: Amazon KFTUWI | ID: 1c7ce063-1dfc-4dd8-9984-07f25cea24b2
+[8/29/2026 2:32:55 AM] Game: Police Car Chase | Device: Amazon AFTSSS | ID: 274edfc3-2021-4ecc-b617-3d05853bfb66
