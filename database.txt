@@ -8839,3 +8839,4 @@
 [8/29/2026 5:25:09 PM] Game: Wedding Day DressUp | Device: Amazon KFSNWI | ID: f3dfb8f2-20a5-4972-8fa7-19b9dca4a1bb
 [8/29/2026 5:44:07 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 602fd3a4-47fd-44d3-bf1f-9b923dd375df
 [29/08/2026 20:15:41] Game: Hole Master | Device: Amazon KFRAWI | ID: ca3b24e6-8d55-464b-8f8c-df55bed63f15
+[29/08/2026 20:27:36] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
