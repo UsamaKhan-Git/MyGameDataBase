@@ -8855,3 +8855,4 @@
 [8/30/2026 1:30:02 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 4559de57-0f85-4a54-b8e0-54956917b70e
 [8/30/2026 8:24:55 AM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 1eb03483-e985-4bbc-b7ef-0ad82bba22f9
 [8/30/2026 2:42:36 PM] Game: Hole Master | Device: Amazon AFTSSS | ID: 9bd68796-0688-4470-810f-a6c1c20849f7
+[30/08/2026 6:56:16] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
