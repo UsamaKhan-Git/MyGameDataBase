@@ -8887,3 +8887,4 @@
 [31/08/2026 13:23:39] Game: Crazy Makeover Artist | Device: Amazon KFQUWI | ID: e7b23668-2d68-404c-a92f-4975c37caf6b
 [31/08/2026 18:07:18] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: bd7db785-f184-4070-9135-8079206be7d6
 [31/08/2026 12:11:33] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
+[8/31/2026 5:11:53 PM] Game: Steal And Run Game | Device: Amazon KFRASWI | ID: 00000000-0000-0000-0000-000000000000
