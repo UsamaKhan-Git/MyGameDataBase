@@ -9098,3 +9098,4 @@
 [06.09.2026 08:59:16] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 3c7be644-2372-4443-94f7-8205bc62d8a2
 [06.09.2026 09:02:02] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 3c7be644-2372-4443-94f7-8205bc62d8a2
 [9/6/2026 8:35:57 AM] Game: Hole Master | Device: Amazon KFONWI | ID: 285e7492-e65d-4f8b-b43c-7ac1863ef53b
+[2026/09/06 18:20:45] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: b3bfc5a5-30c7-423c-ba6e-4182c17365e6
