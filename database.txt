@@ -9095,3 +9095,4 @@
 [06.09.2026 08:04:46] Game: Doll Project | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [06.09.2026 08:05:01] Game: Doll Project | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [06.09.2026 08:05:38] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
+[06.09.2026 08:59:16] Game: ASMR Makeover Beauty | Device: Amazon KFRAWI | ID: 3c7be644-2372-4443-94f7-8205bc62d8a2
