@@ -91,3 +91,4 @@
 [10-09-2026 13:27:32] Game: Naughty Baby | Device: Amazon AFTFO63DD9 | ID: bf542db4-312a-4080-bcc5-6e6f4441eb5d
 [9/10/2026 10:58:15 AM] Game: Naughty Baby | Device: Amazon KFTRWI | ID: e704f5b5-77ee-47ad-ba77-632892c1fee0
 [9/10/2026 10:58:19 AM] Game: Naughty Baby | Device: Amazon AFTKRT | ID: 83c367c3-ef7a-412a-b477-d60c9bca7726
+[9/10/2026 10:58:26 AM] Game: Naughty Baby | Device: Amazon AFTMM | ID: 2c862747-2688-494a-9eaf-2c51a00466d7
