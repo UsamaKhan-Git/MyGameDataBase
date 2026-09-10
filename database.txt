@@ -87,3 +87,4 @@
 [9/9/2026 9:52:20 PM] Game: Steal And Run Game | Device: Amazon KFRASWI | ID: 00000000-0000-0000-0000-000000000000
 [9/9/2026 7:40:12 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 1e69ed7d-f50d-4766-b1f1-4ec04e4387f6
 [9/10/2026 12:57:59 AM] Game: Naughty Baby | Device: Amazon AFTSSS | ID: bf68d09c-8597-4e13-bc57-c792dd366010
+[9/10/2026 11:00:29 AM] Game: Naughty Baby | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
