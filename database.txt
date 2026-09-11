@@ -124,3 +124,4 @@
 [9/11/2026 5:14:37 AM] Game: Naughty Baby | Device: Amazon KFSNWI | ID: bd1c5887-ad16-4735-a565-674086340c4c
 [2026/09/11 19:01:05] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: da7e3eab-bbec-4445-bcb7-bbc749a832e0
 [9/11/2026 9:32:42 AM] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: b9811305-bb0a-4bd1-a3bd-99a310e1b002
+[9/11/2026 11:19:33 AM] Game: Steal And Run Game | Device: Amazon KFMAWI | ID: ba1ecf81-976f-427a-906f-1b38c956e898
