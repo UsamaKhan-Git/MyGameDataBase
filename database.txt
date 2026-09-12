@@ -168,3 +168,4 @@
 [9/12/2026 8:43:04 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 6d020038-bab8-42b1-b8c8-f81a2a93bc77
 [12/09/2026 8:51:31] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: c8d5ee93-74e9-435e-b6a4-388217a22f6f
 [9/12/2026 9:03:14 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
+[12.09.2026 16:57:00] Game: Naughty Baby | Device: Amazon KFRAWI | ID: cf1443e0-d9ce-434e-8167-17087846a81c
