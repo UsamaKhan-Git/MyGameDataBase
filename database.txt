@@ -171,3 +171,4 @@
 [12.09.2026 16:57:00] Game: Naughty Baby | Device: Amazon KFRAWI | ID: cf1443e0-d9ce-434e-8167-17087846a81c
 [12/09/2026 10:59:37] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: c8d5ee93-74e9-435e-b6a4-388217a22f6f
 [12/09/2026 11:12:37] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: c8d5ee93-74e9-435e-b6a4-388217a22f6f
+[9/12/2026 10:19:10 AM] Game: Doll Project | Device: Amazon KFONWI | ID: a124006e-502f-411b-a872-1358f70b436a
