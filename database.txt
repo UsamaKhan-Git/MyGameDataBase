@@ -166,3 +166,4 @@
 [2026/09/12 20:01:01] Game: Makeup Zombie ASMR | Device: Amazon KFTUWI | ID: df409510-078c-4011-82c9-8185207d3c00
 [9/12/2026 2:39:10 PM] Game: Hole Master | Device: Amazon KFTUWI | ID: 17d07990-ca2b-4c56-9636-611929e8df6a
 [9/12/2026 8:43:04 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 6d020038-bab8-42b1-b8c8-f81a2a93bc77
+[12/09/2026 8:51:31] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: c8d5ee93-74e9-435e-b6a4-388217a22f6f
