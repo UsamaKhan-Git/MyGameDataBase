@@ -201,3 +201,4 @@
 [2026-09-12 6:55:09 PM] Game: Real Wrestling Game | Device: Amazon KFQUWI | ID: 661a806f-ea12-4806-84c2-a0ed317477eb
 [9/12/2026 10:35:50 PM] Game: Steal And Run Game | Device: Amazon AFTHU71990 | ID: 38d5a8dd-5521-4aad-b915-bec60c6bf1c2
 [9/12/2026 10:36:18 PM] Game: Steal And Run Game | Device: Amazon AFTHU71990 | ID: 38d5a8dd-5521-4aad-b915-bec60c6bf1c2
+[9/13/2026 12:36:56 AM] Game: Naughty Baby | Device: Amazon KFONWI | ID: 428b858f-aef1-47cc-8377-fd3539cfb785
