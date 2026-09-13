@@ -233,3 +233,4 @@
 [2026-09-13 8:45:43 AM] Game: Real Wrestling Game | Device: Amazon KFQUWI | ID: 661a806f-ea12-4806-84c2-a0ed317477eb
 [13.09.2026 17:49:15] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 904b564a-e154-4abd-804c-a4a3c3ca5827
 [13/09/2026 12:10:48] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: c8d5ee93-74e9-435e-b6a4-388217a22f6f
+[9/13/2026 12:43:53 PM] Game: 99 Night survival challange | Device: Amazon KFMAWI | ID: 1ee4d2a2-4c83-4580-8d48-79bfb0849f7c
