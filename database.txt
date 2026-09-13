@@ -236,3 +236,4 @@
 [9/13/2026 12:43:53 PM] Game: 99 Night survival challange | Device: Amazon KFMAWI | ID: 1ee4d2a2-4c83-4580-8d48-79bfb0849f7c
 [9/13/2026 10:02:54 AM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 0d8d2a7f-1587-4992-8cf2-241f692d6a22
 [13.09.2026 19:29:22] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 904b564a-e154-4abd-804c-a4a3c3ca5827
+[13.09.2026 19:56:30] Game: Naughty Baby | Device: Amazon KFRAWI | ID: cf1443e0-d9ce-434e-8167-17087846a81c
