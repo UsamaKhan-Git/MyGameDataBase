@@ -252,3 +252,4 @@
 [13/09/2026 06:52:40 p. m.] Game: Soccer Game | Device: Amazon AFTKRT | ID: cc89b9de-ccbb-4c2f-9345-d055198c45e9
 [9/13/2026 7:19:55 PM] Game: Build Plane Game | Device: Amazon KFTUWI | ID: 14c7f7cd-0f5b-4907-93bd-30bb922b421f
 [9/13/2026 8:01:04 PM] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: 63402976-dcb3-45eb-b58e-8a089c3407d3
+[13/09/2026 22:18:34] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: c8d5ee93-74e9-435e-b6a4-388217a22f6f
