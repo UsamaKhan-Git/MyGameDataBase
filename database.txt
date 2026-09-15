@@ -280,3 +280,4 @@
 [9/15/2026 9:17:28 AM] Game: Hair Salon | Device: Amazon KFSNWI | ID: 7e3a6034-7417-430b-88d5-928e1e388849
 [9/15/2026 12:37:17 AM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 31c5b54b-4ff2-4e6e-90bc-51819619edde
 [15.09.2026 08:16:34] Game: Naughty Baby | Device: Amazon KFRAWI | ID: cf1443e0-d9ce-434e-8167-17087846a81c
+[9/15/2026 2:36:58 PM] Game: Naughty Baby | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
