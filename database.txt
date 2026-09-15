@@ -287,3 +287,4 @@
 [9/15/2026 3:05:29 PM] Game: Naughty Baby | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
 [9/15/2026 3:13:03 PM] Game: Naughty Baby | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
 [9/15/2026 3:15:03 PM] Game: Naughty Baby | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
+[9/15/2026 5:30:17 AM] Game: Doll Project | Device: Amazon KFONWI | ID: a124006e-502f-411b-a872-1358f70b436a
