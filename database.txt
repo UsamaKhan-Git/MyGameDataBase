@@ -320,3 +320,4 @@
 [16.09.2026 19:27:15] Game: Naughty Baby | Device: Amazon KFRAWI | ID: cf1443e0-d9ce-434e-8167-17087846a81c
 [9/16/2026 12:39:02 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 82580afa-bd07-48f2-958b-b7c83d72c318
 [16/09/2026 15:41:49] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: acf3520f-db19-4319-b23f-87294ab63de9
+[9/16/2026 3:31:18 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: b536a447-b59e-4763-80d5-6d611f4f83a5
