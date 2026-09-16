@@ -316,3 +316,4 @@
 [9/16/2026 7:24:24 AM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: ac009d9b-2f67-4afc-a495-9e3636e40117
 [9/16/2026 7:31:56 AM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: ac009d9b-2f67-4afc-a495-9e3636e40117
 [16/09/2026 10:06:42] Game: Hole Master | Device: Amazon KFTUWI | ID: fdd92829-5fb6-4929-81c3-2cf482f607fb
+[9/16/2026 3:26:51 PM] Game: Naughty Baby | Device: Amazon AFTSSS | ID: 02e4ee5d-b139-4398-9161-165f5a5899d8
