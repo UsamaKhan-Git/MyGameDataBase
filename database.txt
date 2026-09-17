@@ -336,3 +336,4 @@
 [9/17/2026 4:37:28 PM] Game: Steal An Egg | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
 [17/09/2026 8:22:01] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: ce395af4-4e25-4841-966f-e52b3a2e7c2c
 [17.09.2026 15:41:49] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 99b1dc2f-86a0-47b3-933b-71d9eaf32388
+[17.09.2026 17:38:35] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 8a08da60-5609-4fbe-aa56-f28aac0541d6
