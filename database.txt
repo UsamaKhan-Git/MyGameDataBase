@@ -342,3 +342,4 @@
 [17/09/2026 13:56:52] Game: Hole Master | Device: Amazon KFONWI | ID: ce04548f-5ddc-41fe-a828-de1062751c4c
 [17/09/2026 15:59:33] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: acf3520f-db19-4319-b23f-87294ab63de9
 [17/09/2026 20:03:39] Game: Hole Master | Device: Amazon KFKAWI | ID: f1d0cb8a-53ca-440c-8e32-aa836d7f454b
+[9/17/2026 5:02:39 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: 00000000-0000-0000-0000-000000000000
