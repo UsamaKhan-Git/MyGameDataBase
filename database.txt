@@ -348,3 +348,4 @@
 [9/17/2026 9:02:20 PM] Game: Hole Master | Device: Amazon KFONWI | ID: 7bea882f-c307-42b6-803a-dcbb7ab9dfc8
 [9/17/2026 8:15:56 PM] Game: ASMR Makeover Beauty | Device: Amazon KFMAWI | ID: 4bc83df9-7839-4705-b090-dd181b9c9a44
 [9/17/2026 10:33:04 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: b536a447-b59e-4763-80d5-6d611f4f83a5
+[18.09.2026 06:45:57] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 00000000-0000-0000-0000-000000000000
