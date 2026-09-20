@@ -393,3 +393,4 @@
 [2026/09/20 17:22:37] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: f381accb-9dfc-4dc3-86ac-d5354f7a59c6
 [9/20/2026 7:32:56 AM] Game: Crazy Makeover Artist | Device: Amazon KFRAWI | ID: e2f14fb3-4688-41de-bac0-2316c48d7e66
 [9/20/2026 8:46:49 AM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: cd0f4acd-f013-49f7-8b12-2504a6325b72
+[20.09.2026 17:02:08] Game: Build Plane Game | Device: Amazon KFRAPWI | ID: bcc48e82-0e63-4979-b2b8-b5e71e31d429
