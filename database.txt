@@ -396,3 +396,4 @@
 [20.09.2026 17:02:08] Game: Build Plane Game | Device: Amazon KFRAPWI | ID: bcc48e82-0e63-4979-b2b8-b5e71e31d429
 [2026-09-20 8:06:48 AM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 00000000-0000-0000-0000-000000000000
 [20.09.2026 18:36:46] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
+[20/09/2026 15:49:50] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: 8564f629-6630-472f-8655-d213f95f63c3
