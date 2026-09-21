@@ -410,3 +410,4 @@
 [9/20/2026 8:03:44 PM] Game: Hole Master | Device: Amazon KFTUWI | ID: 377cec37-5c67-402d-a3d1-7ae6c527318e
 [2026-09-20 6:02:44 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 00000000-0000-0000-0000-000000000000
 [9/20/2026 6:31:26 PM] Game: Wedding Day DressUp | Device: Amazon KFRAPWI | ID: 20223172-5e76-4aeb-82af-84137013eebe
+[9/20/2026 9:51:01 PM] Game: Doll Project | Device: Amazon KFRAPWI | ID: 50360381-64fa-40f3-ad83-6162a5ce51d2
