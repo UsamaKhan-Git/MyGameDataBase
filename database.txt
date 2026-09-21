@@ -419,3 +419,4 @@
 [2026/09/21 14:30:09] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: f381accb-9dfc-4dc3-86ac-d5354f7a59c6
 [9/21/2026 2:21:03 PM] Game: Steal An Egg | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [9/21/2026 2:22:06 PM] Game: Steal An Egg | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
+[21.09.2026 14:05:00] Game: Wedding Day DressUp | Device: Amazon KFTUWI | ID: 407f5ce8-434e-452a-a202-1e5d556e0596
