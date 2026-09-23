@@ -468,3 +468,4 @@
 [9/23/2026 2:46:45 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: dce6cfd3-b39e-4890-84b1-ecb08bb66250
 [23/09/2026 15:24:07] Game: Hole Master | Device: Amazon KFONWI | ID: 0c9cfefc-5a9f-4c9e-9981-782d8d4a92e8
 [23/09/2026 15:26:35] Game: Hole Master | Device: Amazon KFONWI | ID: 0c9cfefc-5a9f-4c9e-9981-782d8d4a92e8
+[9/23/2026 3:57:07 PM] Game: Doll Project | Device: Amazon KFQUWI | ID: 04a16a1e-0df5-4da8-b73a-9de52115d230
