@@ -448,3 +448,4 @@
 [22/09/2026 21:30:52] Game: Real Wrestling Game | Device: Amazon KFONWI | ID: 00000000-0000-0000-0000-000000000000
 [22/09/2026 20:40:55] Game: ASMR Makeover Beauty | Device: Amazon KFQUWI | ID: b4ca4496-8462-4205-92ce-fdcd528eb0b6
 [9/22/2026 10:40:22 PM] Game: Hole Master | Device: Amazon KFMAWI | ID: c92d49f6-b730-46b8-905a-c579ce3b8f45
+[9/22/2026 11:58:17 PM] Game: Doll Project | Device: Amazon KFRAWI | ID: 012677ec-704f-4bfb-b1eb-ceb8dd9043c8
