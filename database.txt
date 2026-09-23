@@ -450,3 +450,4 @@
 [9/22/2026 10:40:22 PM] Game: Hole Master | Device: Amazon KFMAWI | ID: c92d49f6-b730-46b8-905a-c579ce3b8f45
 [9/22/2026 11:58:17 PM] Game: Doll Project | Device: Amazon KFRAWI | ID: 012677ec-704f-4bfb-b1eb-ceb8dd9043c8
 [2026/09/23 15:43:29] Game: Real Wrestling Game | Device: Amazon AFTSSS | ID: 1c07e5a9-f0dd-4a84-a21b-62a6d633bddb
+[9/23/2026 3:35:10 PM] Game: Runner Game Controller | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
