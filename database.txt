@@ -492,3 +492,4 @@
 [2026/09/25 12:45:22] Game: Ant Simulator | Device: Amazon AFTKA | ID: 575a6e6b-9c2f-4495-8901-d8cb93b9b210
 [25.09.2026 11:00:59] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 4aa3627d-1a75-4b69-ba76-10cf635422b5
 [25/09/2026 17:44:47] Game: Steal And Run Game | Device: Amazon KFONWI | ID: 37708d2c-b831-4415-8304-dba0bbe12aea
+[2026-09-25 1:38:38 PM] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 8dcb01de-f8d7-4a0a-aa26-3652a8613827
