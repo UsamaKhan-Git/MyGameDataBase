@@ -490,3 +490,4 @@
 [9/24/2026 7:35:54 PM] Game: Hole Master | Device: Amazon KFTRWI | ID: c93bc1ee-26e4-44f3-9427-ffe1b2cf3484
 [9/24/2026 4:53:47 PM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 223e1f35-f441-47c0-a436-cf04d060fb88
 [2026/09/25 12:45:22] Game: Ant Simulator | Device: Amazon AFTKA | ID: 575a6e6b-9c2f-4495-8901-d8cb93b9b210
+[25.09.2026 11:00:59] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 4aa3627d-1a75-4b69-ba76-10cf635422b5
