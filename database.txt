@@ -507,3 +507,4 @@
 [25/09/2026 21:40:16] Game: Hole Master | Device: Amazon KFONWI | ID: 93a68e5d-abdc-4d26-8819-c6284ab03111
 [9/25/2026 8:13:35 PM] Game: Rope hero  games | Device: Amazon KFONWI | ID: bb36bf7c-e151-4ea8-a312-d395082f4827
 [9/26/2026 7:02:40 AM] Game: Hole Master | Device: Amazon KFTUWI | ID: 1851c4d2-f515-404c-bd1a-2900b4db975e
+[26.09.2026 09:02:37] Game: Steal And Run Game | Device: Amazon AFTKRT | ID: 00000000-0000-0000-0000-000000000000
