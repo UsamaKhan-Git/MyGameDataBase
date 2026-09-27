@@ -555,3 +555,4 @@
 [27/09/2026 16:57:12] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: 8564f629-6630-472f-8655-d213f95f63c3
 [27/09/2026 16:04:48] Game: Hole Master | Device: Amazon KFONWI | ID: 0c9cfefc-5a9f-4c9e-9981-782d8d4a92e8
 [27/09/2026 14:15:16] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
+[27/09/2026 16:20:16] Game: Real Wrestling Game | Device: Amazon KFONWI | ID: 00000000-0000-0000-0000-000000000000
