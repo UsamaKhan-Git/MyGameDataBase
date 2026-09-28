@@ -575,3 +575,4 @@
 [28/09/2026 11:43:59] Game: Hole Master | Device: Amazon KFTRWI | ID: 95da508a-14b8-4d62-9648-686207ea907b
 [28.09.2026 18:26:46] Game: Hole Master | Device: Amazon KFTUWI | ID: a8a9a738-4b57-4d7c-8d4c-33a03884ed74
 [28.09.2026 18:33:19] Game: Hole Master | Device: Amazon KFTUWI | ID: a8a9a738-4b57-4d7c-8d4c-33a03884ed74
+[9/28/2026 12:52:43 PM] Game: Loin Hunting | Device: Amazon AFTDCT31 | ID: 80b80d10-77ca-489b-9aef-0f195da27f94
