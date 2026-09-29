@@ -595,3 +595,4 @@
 [29.09.2026 16:28:19] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [29.09.2026 16:28:58] Game: Eye Art Game | Device: Amazon KFTUWI | ID: 503a3767-ac38-44ed-b4a2-a74cad7afeff
 [29.09.2026 16:35:19] Game: Build New Plane Game | Device: Amazon KFTUWI | ID: 4c972ae5-8488-4a87-bb21-70360200b4d6
+[29/09/2026 15:20:08] Game: Real Wrestling Game | Device: Amazon KFONWI | ID: 00000000-0000-0000-0000-000000000000
