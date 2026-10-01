@@ -620,3 +620,4 @@
 [01/10/2026 20:39:50] Game: Crazy Makeover Artist | Device: Amazon KFQUWI | ID: 0149fbfa-c875-4924-9090-071070b1587e
 [01.10.2026 19:59:36] Game: Steal And Run Game | Device: Amazon AFTKRT | ID: 00000000-0000-0000-0000-000000000000
 [10/1/2026 1:30:52 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 3b42db02-fefb-4a6d-acb4-3e151dc26e17
+[10/1/2026 12:22:04 PM] Game: ASMR Makeover Beauty | Device: Amazon KFMAWI | ID: 4bc83df9-7839-4705-b090-dd181b9c9a44
