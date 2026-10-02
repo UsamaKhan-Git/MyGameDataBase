@@ -634,3 +634,4 @@
 [02.10.2026 16:46:18] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 00000000-0000-0000-0000-000000000000
 [10/2/2026 10:08:17 AM] Game: ASMR Makeover Beauty | Device: Amazon KFMAWI | ID: 4bc83df9-7839-4705-b090-dd181b9c9a44
 [02/10/2026 12:32:58] Game: Hole Master | Device: Amazon KFTUWI | ID: d1f692fd-9d80-4476-9bfe-1ab1cded43ef
+[10/2/2026 1:45:43 PM] Game: 99 Night survival challange | Device: Amazon KFRAPWI | ID: 19f8f21c-a3ce-4006-ace8-784153f5bcbb
