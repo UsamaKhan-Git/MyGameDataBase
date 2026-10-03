@@ -654,3 +654,4 @@
 [10/3/2026 12:15:39 PM] Game: Moto Bike Race | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [03/10/2026 12:46:31] Game: Crazy Makeover Artist | Device: Amazon KFQUWI | ID: 0149fbfa-c875-4924-9090-071070b1587e
 [10/3/2026 3:20:15 PM] Game: Naughty Baby | Device: Amazon KFRAWI | ID: 64539d35-5623-45c7-9781-f68af653beae
+[10/3/2026 4:45:18 PM] Game: Naughty Baby | Device: Amazon KFRAWI | ID: 64539d35-5623-45c7-9781-f68af653beae
