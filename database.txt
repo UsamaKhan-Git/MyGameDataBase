@@ -675,3 +675,4 @@
 [10/3/2026 10:00:57 PM] Game: Granny Annty | Device: Amazon KFQUWI | ID: 298a6fba-9609-4c5a-b2c7-7ff636ac71fd
 [10/3/2026 9:46:35 PM] Game: Hole Master | Device: Amazon KFMAWI | ID: 18033ad5-ba60-4966-8bbb-3c71edb3957d
 [10/3/2026 10:37:01 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: f418dbfd-fb3f-4fb7-a811-6c2629f1cde8
+[04.10.2026 08:32:35] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: 02fef06b-4aca-4e44-977a-b66cb6c393eb
