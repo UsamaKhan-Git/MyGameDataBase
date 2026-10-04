@@ -693,3 +693,4 @@
 [04/10/2026 12:39:36] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [04/10/2026 16:12:00] Game: Hole Master | Device: Amazon KFONWI | ID: 28fd974d-d1c0-4634-8ecf-a8879216445c
 [10/4/2026 4:19:13 PM] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 96901a28-53b5-4866-8599-cdf38bc8840e
+[10/4/2026 3:41:50 PM] Game: Granny Annty | Device: Amazon KFTRWI | ID: 9b372c31-0bd5-474c-8c27-ca97125d9c88
