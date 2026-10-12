@@ -858,3 +858,4 @@
 [10/12/2026 12:52:03 PM] Game: Speed Keyboard Escape 3D | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
 [10/12/2026 1:20:55 PM] Game: Speed Keyboard Escape 3D | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
 [10/12/2026 1:28:47 PM] Game: Speed Keyboard Escape 3D | Device: Precision 3520 (Dell Inc.) | ID: EDITOR_TEST_ID_12345
+[12.10.2026 14:29:43] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 88b24455-d2e8-4b53-a44d-38983b76535a
