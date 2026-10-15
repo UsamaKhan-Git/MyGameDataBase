@@ -901,3 +901,4 @@
 [2026/10/15 22:39:15] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 10e50536-886d-4f11-86f3-9a4319e0eddf
 [15/10/2026 19:14:05] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: 8ae384df-1187-4569-84ae-7059e0d5924f
 [10/15/2026 2:29:30 PM] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: 0b7d18c8-cd3e-4775-be6f-c9a41c71f99d
+[10/15/2026 2:30:08 PM] Game: Wedding Day DressUp | Device: Amazon KFRAPWI | ID: 0b7d18c8-cd3e-4775-be6f-c9a41c71f99d
