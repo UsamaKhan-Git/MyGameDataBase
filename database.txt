@@ -925,3 +925,4 @@
 [16/10/2026 13:10:46] Game: Hole Master | Device: Amazon KFONWI | ID: 6d5c197c-97be-43bb-857c-ae6875907ad6
 [10/16/2026 2:04:30 PM] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: 778791e8-e9bf-43b4-9ef8-0e918da392b5
 [16.10.2026 20:42:44] Game: Soccer Game | Device: Amazon KFQUWI | ID: c9e3acfb-f21b-4dcf-a6a1-ab62fd1a7ba7
+[10/16/2026 2:43:20 PM] Game: Wedding Day DressUp | Device: Amazon KFRAPWI | ID: 0b7d18c8-cd3e-4775-be6f-c9a41c71f99d
