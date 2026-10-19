@@ -1037,3 +1037,4 @@
 [10/19/2026 4:22:14 PM] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: 0a76b87e-7a6f-44ac-ad82-49fdf70a8f9b
 [10/19/2026 3:42:32 PM] Game: Hole Master | Device: Amazon KFTUWI | ID: 337ac1a8-79d0-4041-a86c-93f66e2e09d0
 [10/19/2026 5:37:19 PM] Game: Crazy Makeover Artist | Device: Amazon KFRASWI | ID: b443b0f6-7dad-46ca-92fa-359b0510d053
+[2026-10-19 6:59:05 PM] Game: Granny Annty | Device: Amazon AFTNA1322D | ID: 3630a860-b441-4e97-b06c-819a2038a8cb
