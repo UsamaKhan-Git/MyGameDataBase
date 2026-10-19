@@ -1044,3 +1044,4 @@
 [2026-10-19 7:22:09 PM] Game: Granny Annty | Device: Amazon AFTNA1322D | ID: 3630a860-b441-4e97-b06c-819a2038a8cb
 [2026-10-19 7:34:08 PM] Game: Granny Annty | Device: Amazon AFTNA1322D | ID: 3630a860-b441-4e97-b06c-819a2038a8cb
 [10/19/2026 5:38:00 PM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 133b368f-3f43-4a02-8acb-1f8440a4e8d7
+[10/19/2026 7:24:55 PM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: ea7d0313-97ed-46d6-a433-ad06e61a8986
