@@ -1056,3 +1056,4 @@
 [10/20/2026 12:07:18 PM] Game: Steal And Run Game | Device: Amazon KFQUWI | ID: 4559de57-0f85-4a54-b8e0-54956917b70e
 [20.10.2026 12:55:06] Game: Wedding Day DressUp | Device: Amazon KFONWI | ID: b810a0da-e994-4625-aa94-2b51afa9af9f
 [10/20/2026 7:35:17 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: ea7d0313-97ed-46d6-a433-ad06e61a8986
+[20.10.2026 14:59:48] Game: Crazy Makeover Artist | Device: Amazon KFRAWI | ID: 7da30a76-fbf4-417f-9df4-effbe4c2eb5e
