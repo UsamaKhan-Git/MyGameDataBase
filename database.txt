@@ -1119,3 +1119,4 @@
 [23.10.2026 19:29:14] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 4b628291-da8f-40c0-9882-ecd38f3c0735
 [10/23/2026 2:12:57 PM] Game: Hole Master | Device: Amazon AFTHY7ABBA | ID: a7a196e0-41d2-4a66-95a0-cebb55771e54
 [10/23/2026 2:15:08 PM] Game: Hole Master | Device: Amazon AFTHY7ABBA | ID: a7a196e0-41d2-4a66-95a0-cebb55771e54
+[23.10.2026 21:08:23] Game: Doll Project | Device: Amazon KFONWI | ID: a395405f-bd02-4b72-ae8c-db6aabb10fef
