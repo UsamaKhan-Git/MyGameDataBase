@@ -1160,3 +1160,4 @@
 [25/10/2026 12:28:44] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [25/10/2026 18:54:53] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: 36b94f90-9e9c-4539-bc88-7e9b19ac0920
 [10/25/2026 12:12:28 PM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 653c18b7-f7eb-4a73-900f-84445f59f7c8
+[25.10.2026 20:50:39] Game: Makeup Zombie ASMR | Device: Amazon KFTRWI | ID: 18be7d1d-bb4d-48bd-962e-c5dde52ab96f
