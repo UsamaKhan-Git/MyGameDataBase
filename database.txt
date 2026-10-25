@@ -1138,3 +1138,4 @@
 [24.10.2026 19:54:32] Game: BMXCycle Game | Device: Amazon KFKAWI | ID: dbe9969a-1300-4ba8-afd6-cea4504eac77
 [24.10.2026 20:44:57] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 4b628291-da8f-40c0-9882-ecd38f3c0735
 [24/10/2026 15:44:03] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
+[10/24/2026 9:12:05 PM] Game: 99 Night survival challange | Device: Amazon KFRAPWI | ID: 1a465592-1f08-45e2-b800-104c4074e937
