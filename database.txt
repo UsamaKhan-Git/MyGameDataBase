@@ -1151,3 +1151,4 @@
 [25.10.2026 12:01:24] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: acc3b8e8-12f0-42a0-93c0-2f87796d944c
 [10/25/2026 6:03:47 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: b0bd78cd-3b68-4519-a0b4-aadd7442b6e5
 [10/25/2026 11:31:19 AM] Game: Hole Master | Device: Amazon AFTSS | ID: 38dcb24e-0311-4327-94f4-ccb28ba98921
+[25/10/2026 9:14:23] Game: Real Wrestling Game | Device: Amazon KFONWI | ID: 00000000-0000-0000-0000-000000000000
