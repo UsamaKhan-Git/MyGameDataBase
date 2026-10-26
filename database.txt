@@ -1174,3 +1174,4 @@
 [26.10.2026 17:30:35] Game: Makeup Zombie ASMR | Device: Amazon KFTRWI | ID: 18be7d1d-bb4d-48bd-962e-c5dde52ab96f
 [26/10/2026 13:36:32] Game: Hole Master | Device: Amazon KFRAWI | ID: 5d06b2c0-dd17-4b9c-854d-26cfbbbc01c0
 [26/10/2026 3:57:23 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 0e9c8f4b-70a1-4774-9d6f-8c7dc0acd7cd
+[26/10/2026 4:02:13 PM] Game: 99 Night survival | Device: Amazon KFRAWI | ID: 0e9c8f4b-70a1-4774-9d6f-8c7dc0acd7cd
