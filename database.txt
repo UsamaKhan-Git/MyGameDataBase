@@ -1171,3 +1171,4 @@
 [2026-10-26 8:45:14 AM] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 00000000-0000-0000-0000-000000000000
 [10/26/2026 8:11:55 AM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 653c18b7-f7eb-4a73-900f-84445f59f7c8
 [26/10/2026 16:07:33] Game: Crazy Makeover Artist | Device: Amazon KFQUWI | ID: 0149fbfa-c875-4924-9090-071070b1587e
+[26.10.2026 17:30:35] Game: Makeup Zombie ASMR | Device: Amazon KFTRWI | ID: 18be7d1d-bb4d-48bd-962e-c5dde52ab96f
