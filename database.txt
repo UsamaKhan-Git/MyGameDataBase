@@ -1173,3 +1173,4 @@
 [26/10/2026 16:07:33] Game: Crazy Makeover Artist | Device: Amazon KFQUWI | ID: 0149fbfa-c875-4924-9090-071070b1587e
 [26.10.2026 17:30:35] Game: Makeup Zombie ASMR | Device: Amazon KFTRWI | ID: 18be7d1d-bb4d-48bd-962e-c5dde52ab96f
 [26/10/2026 13:36:32] Game: Hole Master | Device: Amazon KFRAWI | ID: 5d06b2c0-dd17-4b9c-854d-26cfbbbc01c0
+[26/10/2026 3:57:23 PM] Game: Steal And Run Game | Device: Amazon KFRAWI | ID: 0e9c8f4b-70a1-4774-9d6f-8c7dc0acd7cd
