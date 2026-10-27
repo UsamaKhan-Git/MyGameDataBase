@@ -1188,3 +1188,4 @@
 [27/10/2026 20:07:10] Game: Hole Master | Device: Amazon KFRAWI | ID: 53019c90-e3fb-4da5-865a-29e820bbe031
 [27.10.2026 20:29:28] Game: Doll Project | Device: Amazon KFTRWI | ID: 9faa5727-2af4-4e41-97e3-979d2b01881e
 [10/27/2026 6:46:17 PM] Game: 99 Night survival challange | Device: Amazon KFONWI | ID: ea265213-c488-4570-9b31-407c43045448
+[10/27/2026 7:13:27 PM] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: beb4f26d-a625-4bd7-b84d-230d0d602099
