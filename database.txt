@@ -1257,3 +1257,4 @@
 [10/30/2026 7:34:21 PM] Game: 99 Night survival challange | Device: Amazon KFTRWI | ID: 73a47000-f7f9-435d-8c55-713813cd0689
 [30/10/2026 06:13:15 p. m.] Game: Hole Master | Device: Amazon KFRAPWI | ID: 09884776-3b01-4d76-a23a-574bf534282d
 [30/10/2026 20:14:06] Game: Doll Project | Device: Amazon KFONWI | ID: 80d648f4-77c6-4851-ae1f-307dac1ea133
+[10/30/2026 8:56:18 p. m.] Game: Wedding Day DressUp | Device: Amazon KFRAWI | ID: cbb78020-964f-4d40-bf57-93d9e56e5d8f
