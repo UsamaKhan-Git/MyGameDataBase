@@ -1335,3 +1335,4 @@
 [02.11.2026 18:37:16] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: 2df7ffc5-45f9-454c-8a38-397e824884d0
 [11/2/2026 12:27:16 PM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: d0b2287a-6a1b-44de-9c0a-cb33558c8dcf
 [02/11/2026 20:03:24] Game: Granny Annty | Device: Amazon KFMUWI | ID: 7c95c422-f7ee-4248-83b1-64504fa6f252
+[11/2/2026 4:35:15 PM] Game: Doll Project | Device: Amazon KFRAPWI | ID: dcf43fd4-982c-49b2-bd64-1c2a95039ea9
