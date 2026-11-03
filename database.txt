@@ -1353,3 +1353,4 @@
 [03/11/2026 9:44:59] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [03/11/2026 11:01:19] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [11/3/2026 11:11:16 AM] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: 97cc9cf1-b1a2-42e7-9b6d-25801ce3bd0b
+[03/11/2026 19:42:21] Game: Granny Annty | Device: Amazon KFMUWI | ID: 7c95c422-f7ee-4248-83b1-64504fa6f252
