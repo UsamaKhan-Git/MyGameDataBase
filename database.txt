@@ -1435,3 +1435,4 @@
 [06/11/2026 19:18:50] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [06/11/2026 08:11:29 p. m.] Game: Crazy Makeover Artist | Device: Amazon KFDOWI | ID: 7e50f41f-2e72-4d1c-9b82-9b1dbf380736
 [11/6/2026 9:22:42 PM] Game: Hole Master | Device: Amazon KFTUWI | ID: 9cb4cb0c-4408-4fd9-b078-44da4062c40f
+[11/6/2026 6:27:25 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: c28012d3-c320-4cec-a1a4-e2f41c46063b
