@@ -1476,3 +1476,4 @@
 [08.11.2026 14:31:27] Game: Doll Project | Device: Amazon KFONWI | ID: a395405f-bd02-4b72-ae8c-db6aabb10fef
 [11/8/2026 10:35:51 AM] Game: Wedding Day DressUp | Device: Amazon KFRAPWI | ID: c270b019-108d-4dd2-a9e7-850728c85765
 [08/11/2026 10:42:45 a. m.] Game: Crazy Makeover Artist | Device: Amazon KFRAWI | ID: f02667dd-4642-42bf-9678-b0d5d68cbae6
+[08/11/2026 11:47:52] Game: Build New Plane Game | Device: Amazon KFONWI | ID: 8393c59f-4ddc-4668-88fa-b436c3a9e880
