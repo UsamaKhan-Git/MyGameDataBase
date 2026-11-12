@@ -1578,3 +1578,4 @@
 [12/11/2026 8:24:31] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [12/11/2026 8:24:59] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [12/11/2026 8:45:02] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
+[12.11.2026 17:59:04] Game: 99 Night survival challange | Device: Amazon KFTUWI | ID: 41613cd6-3788-494d-811a-fa493d865ede
