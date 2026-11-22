@@ -1827,3 +1827,4 @@
 [11/21/2026 8:36:02 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 853d7456-19df-4683-88b8-27b33eba41b9
 [11/21/2026 9:49:30 PM] Game: Ant Simulator | Device: Amazon KFTRWI | ID: 7985e4f4-b4c2-45c9-8141-f68f0581c5a0
 [11/22/2026 9:41:49 AM] Game: Crazy Makeover Artist | Device: Amazon KFTUWI | ID: 7f6334a3-49d1-43e1-9c2d-1d2f703f98e4
+[11/22/2026 5:58:36 AM] Game: 99 Night survival challange | Device: Amazon KFRAPWI | ID: fcdb845d-599f-43d0-b758-70a4b543653a
