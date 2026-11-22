@@ -1825,3 +1825,4 @@
 [11/21/2026 7:27:01 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTRWI | ID: 2d063ec2-f898-486c-ae7d-84eec4333e39
 [11/21/2026 10:34:11 PM] Game: Real Wrestling Game | Device: Amazon KFRAWI | ID: 31c5b54b-4ff2-4e6e-90bc-51819619edde
 [11/21/2026 8:36:02 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: 853d7456-19df-4683-88b8-27b33eba41b9
+[11/21/2026 9:49:30 PM] Game: Ant Simulator | Device: Amazon KFTRWI | ID: 7985e4f4-b4c2-45c9-8141-f68f0581c5a0
