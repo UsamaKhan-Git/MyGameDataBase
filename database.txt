@@ -1856,3 +1856,4 @@
 [11/22/2026 4:50:18 PM] Game: Crazy Makeover Artist | Device: Amazon KFRAWI | ID: 5dc9526d-34e6-43d5-854e-c2ee93515b4e
 [11/22/2026 3:57:25 PM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: a9835708-99a7-4edf-9c4c-6f7674f11033
 [22/11/2026 2:20:36 PM] Game: Steal And Run Game | Device: Amazon KFRAPWI | ID: ee8ed7b9-3dcb-41f5-8e01-94a11a8a830a
+[11/22/2026 2:44:59 PM] Game: Ant Simulator | Device: Amazon KFTRWI | ID: 7985e4f4-b4c2-45c9-8141-f68f0581c5a0
