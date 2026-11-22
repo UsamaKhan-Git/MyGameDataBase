@@ -1820,3 +1820,4 @@
 [11/21/2026 6:41:46 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 87f93373-e044-43a2-bf4e-6e822cbae80a
 [11/21/2026 8:34:54 PM] Game: 99 Night survival | Device: Amazon KFTUWI | ID: 40b56dbf-686c-4339-b0b9-eb04e4f69c7e
 [11/21/2026 8:40:31 PM] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: 0f126ada-811b-4be4-94e1-9b637a968d9c
+[11/21/2026 9:44:37 PM] Game: Wedding Day DressUp | Device: Amazon KFTUWI | ID: 8e50fd9c-71cf-453e-ad67-52d862b81280
