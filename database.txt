@@ -1884,3 +1884,4 @@
 [23/11/2026 15:18:46] Game: Slime Maker Simulator | Device: Amazon KFONWI | ID: 83847648-6302-40d5-8d75-34e70acdddc3
 [11/23/2026 2:30:29 PM] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: 157e1e04-3698-4b8e-a472-cae1762d0818
 [11/23/2026 2:35:05 PM] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: 157e1e04-3698-4b8e-a472-cae1762d0818
+[11/23/2026 4:14:23 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: 90cbf28f-dc12-4e7e-a588-eac2eceffb9c
