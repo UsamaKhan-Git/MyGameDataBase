@@ -1880,3 +1880,4 @@
 [11/23/2026 12:02:33 PM] Game: Crazy Makeover Artist | Device: Amazon KFTRWI | ID: 61c5c7cb-27f1-4b25-b8ec-02931ce1e508
 [23/11/2026 13:09:51] Game: Rope hero  games | Device: Amazon KFONWI | ID: c5fb6170-32ec-46dc-8f23-fa8ab808ac7e
 [23/11/2026 19:50:38] Game: Crazy Makeover Artist | Device: Amazon KFQUWI | ID: 0149fbfa-c875-4924-9090-071070b1587e
+[11/23/2026 1:54:39 PM] Game: ASMR Makeover Beauty | Device: Amazon KFTUWI | ID: 87f93373-e044-43a2-bf4e-6e822cbae80a
