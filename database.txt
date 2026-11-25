@@ -1938,3 +1938,4 @@
 [11/25/2026 7:43:13 AM] Game: Crazy Makeover Artist | Device: Amazon KFONWI | ID: 99147174-af4b-4358-b8f3-568c2651e6f5
 [11/25/2026 10:32:23 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: e19eceff-951d-4867-ba23-c973860d888a
 [11/25/2026 10:33:57 AM] Game: Steal And Run Game | Device: Amazon KFTUWI | ID: e19eceff-951d-4867-ba23-c973860d888a
+[25/11/2026 19:32:18] Game: Naughty Baby | Device: Amazon KFMAWI | ID: a4f4de5d-ef63-46c4-8837-ca5d0c71ff8e
