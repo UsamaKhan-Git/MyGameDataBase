@@ -1960,3 +1960,4 @@
 [11/26/2026 11:25:36 AM] Game: Baby Unicorn - My Rainbow Pet | Device: B450MHP (BIOSTAR Group) | ID: EDITOR_TEST_ID_12345
 [11/26/2026 9:37:08 AM] Game: ASMR Makeover Beauty | Device: Amazon KFTRWI | ID: 281ba14a-b156-49e9-bb95-be2c3ae3687e
 [26/11/2026 15:37:08] Game: Crazy Makeover Artist | Device: Amazon KFRAPWI | ID: 0de4527e-0b60-40c4-974f-01a8e2e2fd38
+[26.11.2026 16:49:10] Game: Steal And Run Game | Device: Amazon KFTRWI | ID: 00000000-0000-0000-0000-000000000000
