@@ -2011,3 +2011,4 @@
 [11/27/2026 3:07:28 PM] Game: 99 Night survival challange | Device: Amazon KFRAWI | ID: 69418bfe-f193-4e55-b8f9-5397c31b4764
 [11/27/2026 3:14:13 PM] Game: 99 Night survival challange | Device: Amazon KFRAWI | ID: 69418bfe-f193-4e55-b8f9-5397c31b4764
 [11/27/2026 2:39:03 PM] Game: Crazy Makeover Artist | Device: Amazon KFMUWI | ID: 87d27e38-7caa-48fc-af15-173dee572782
+[11/27/2026 4:36:51 PM] Game: Doll Project | Device: Amazon KFTUWI | ID: 90cbf28f-dc12-4e7e-a588-eac2eceffb9c
